@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/tags/css/</link>
+    <description>Recent content in css on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observing gender roles in mainstream TV shows</title>
+      <link>https://davidevega.eu/education/proposals/gender_tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/proposals/gender_tv/</guid>
+      <description>The power of mass media, such as TV shows, lies in their ability to influence our cultural and political ideas through the lens of their characters or the society they depict. In non-fictional dramas these representations can provide, for the most part and with some limitations, an accurate account of how a particular issue is perceived within a portion of the society. The goal of this project is to study how gender is represented in western TV shows.</description>
+    </item>
+    
+    <item>
+      <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>
+      <link>https://davidevega.eu/education/projects/2021_newspapers/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2021_newspapers/</guid>
+      <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
+    </item>
+    
+  </channel>
+</rss>

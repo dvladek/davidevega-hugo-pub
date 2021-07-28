@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/news/</link>
+    <description>Recent content in News on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSS paper with Matteo Magnani and Luca Rossi: Analysis of Multiplex Social Networks with R</title>
+      <link>https://davidevega.eu/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk at Networks 2021: On a quest to identify online conversations</title>
+      <link>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nlp on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/tags/nlp/</link>
+    <description>Recent content in nlp on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observing gender roles in mainstream TV shows</title>
+      <link>https://davidevega.eu/education/proposals/gender_tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/proposals/gender_tv/</guid>
+      <description>The power of mass media, such as TV shows, lies in their ability to influence our cultural and political ideas through the lens of their characters or the society they depict. In non-fictional dramas these representations can provide, for the most part and with some limitations, an accurate account of how a particular issue is perceived within a portion of the society. The goal of this project is to study how gender is represented in western TV shows.</description>
+    </item>
+    
+    <item>
+      <title>Text to features for Swedish text</title>
+      <link>https://davidevega.eu/education/projects/2019_text_features_swedish/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2019_text_features_swedish/</guid>
+      <description>In text mining, texts are usually transformed into numerical vectors or feature vectors, before they are given to a machine learning algorithm for text classification. In this project, a set of features for classifying tweets in Swedish was created. The following classification tasks were selected: gender, age and political party prediction, sentiment analysis and authorship attribution, which is the task of determining if a text was written by a particular author or not.</description>
+    </item>
+    
+  </channel>
+</rss>

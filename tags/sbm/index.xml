@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sbm on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/tags/sbm/</link>
+    <description>Recent content in sbm on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/sbm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic blockmodeling methods for bipartite graphs</title>
+      <link>https://davidevega.eu/education/projects/2021_sbm/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2021_sbm/</guid>
+      <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
+    </item>
+    
+  </channel>
+</rss>

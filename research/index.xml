@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/research/</link>
+    <description>Recent content in Research on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling online communication</title>
+      <link>https://davidevega.eu/research/conversations/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/research/conversations/</guid>
+      <description>The goal of this project is to study methodologies and develop techniques and tools to monitor Social Network Sites and to identify relevant structural and communication patterns.</description>
+    </item>
+    
+    <item>
+      <title>Values and Ethics in Innovation for Responsible Technology in Europe</title>
+      <link>https://davidevega.eu/research/virt-eu/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/research/virt-eu/</guid>
+      <description>The goal of the project is to analyze and map the ethical practices of European hardware and software entrepreneurs, maker and hacker spaces, and community innovators in order to: (1) understand how IoT innovators enact ethics as they design future devices, (2) generate a new framework for Privacy, Ethical and Social Impact Assessment (PESIA) and (3) develop tools to support ethical reflection and self-assessment as part the design and development process for IoT technologies.</description>
+    </item>
+    
+  </channel>
+</rss>

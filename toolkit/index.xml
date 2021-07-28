@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/toolkit/</link>
+    <description>Recent content in Resources on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/toolkit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo-Uppsala Theme</title>
+      <link>https://davidevega.eu/toolkit/hugo_uppsala/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/toolkit/hugo_uppsala/</guid>
+      <description>The hugo-Uppsala is an academic theme I developed over the years to build my personal webpage. This theme has been inspited by the Hugo Finisterre theme by Jonathan Gilligan and some other academics&#39; personal pages I have visited in the past.
+The theme supports most of the features from Hugo Finisterre, such as the automatic generation of publication lists from BibTeX files and the dynamic generation of news in the homepage.</description>
+    </item>
+    
+    <item>
+      <title>Uppsala University Network Library</title>
+      <link>https://davidevega.eu/toolkit/multinet/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/toolkit/multinet/</guid>
+      <description>The uunet (Uppsala University Network Library) is the C++ open source core library for network modelling and analysis developed and maintained by the Uppsala University Information Laboratory . The library is fully documented and includes a comperhensive test suite with examples that demonstrate how it can be used or extended.
+This library also provides most of the code behind the R and Python multinet libraries, which are more specialized.
+The multinet R library The multinet library is available on CRAN (the Comprehensive R Archive Network), and can be installed directly from an R terminal or RStudio.</description>
+    </item>
+    
+  </channel>
+</rss>
