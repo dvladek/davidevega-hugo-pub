@@ -6,7 +6,7 @@
     <description>Recent content in Education on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
@@ -47,12 +47,21 @@ The main content of the course that we cover are principles and methods for soft
     </item>
     
     <item>
-      <title>Modelling across sports events</title>
+      <title>International mobility patterns in competitive sports events</title>
       <link>https://davidevega.eu/education/proposals/chess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/proposals/chess/</guid>
-      <description></description>
+      <description>In this project we are interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.</description>
+    </item>
+    
+    <item>
+      <title>Maintenance Programming</title>
+      <link>https://davidevega.eu/education/courses/mp/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/courses/mp/</guid>
+      <description>The main objective of the course is to teach techniques and methods for developing and extending correct, stable, maintainable and efficient software, documentation as program specification, code and memory profiling as a support for program optimising. It also touches on software developing aids and methods such as code-inspection and method-based testing.</description>
     </item>
     
     <item>
