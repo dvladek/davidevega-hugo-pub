@@ -6,7 +6,7 @@
     <description>Recent content on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling online communication</title>
       <link>https://davidevega.eu/research/conversations/</link>
@@ -64,12 +64,13 @@ The lectures and activities give training about all the theoretical aspects rela
     </item>
     
     <item>
-      <title>Observing gender roles in mainstream TV shows</title>
-      <link>https://davidevega.eu/education/proposals/gender_tv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Advanced Software Design</title>
+      <link>https://davidevega.eu/education/courses/asd/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidevega.eu/education/proposals/gender_tv/</guid>
-      <description>The power of mass media, such as TV shows, lies in their ability to influence our cultural and political ideas through the lens of their characters or the society they depict. In non-fictional dramas these representations can provide, for the most part and with some limitations, an accurate account of how a particular issue is perceived within a portion of the society. The goal of this project is to study how gender is represented in western TV shows.</description>
+      <guid>https://davidevega.eu/education/courses/asd/</guid>
+      <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.
+The main content of the course that we cover are principles and methods for software design with a special focus on object-oriented analysis and design; which includes topics such as domain modelling, software architecture, class and object modelling, behavioural modelling, design patterns, General Responsibility Assignment Software Principles (GRASP) design principles, design evaluation and improvement, and refactoring.</description>
     </item>
     
     <item>
@@ -79,16 +80,6 @@ The lectures and activities give training about all the theoretical aspects rela
       
       <guid>https://davidevega.eu/research/virt-eu/</guid>
       <description>The goal of the project is to analyze and map the ethical practices of European hardware and software entrepreneurs, maker and hacker spaces, and community innovators in order to: (1) understand how IoT innovators enact ethics as they design future devices, (2) generate a new framework for Privacy, Ethical and Social Impact Assessment (PESIA) and (3) develop tools to support ethical reflection and self-assessment as part the design and development process for IoT technologies.</description>
-    </item>
-    
-    <item>
-      <title>Advanced Software Design</title>
-      <link>https://davidevega.eu/education/courses/asd/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/education/courses/asd/</guid>
-      <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.
-The main content of the course that we cover are principles and methods for software design with a special focus on object-oriented analysis and design; which includes topics such as domain modelling, software architecture, class and object modelling, behavioural modelling, design patterns, General Responsibility Assignment Software Principles (GRASP) design principles, design evaluation and improvement, and refactoring.</description>
     </item>
     
     <item>
@@ -126,6 +117,15 @@ The main content of the course that we cover are principles and methods for soft
       <guid>https://davidevega.eu/education/courses/css/</guid>
       <description>This is a new interdisciplinary course I am currently developing in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and it will be taught for the first time in Spring 2022.
 The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs.</description>
+    </item>
+    
+    <item>
+      <title>New postdoc position available in Computational Social Science / Social Data Science for the analysis of online disinformation</title>
+      <link>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</guid>
+      <description></description>
     </item>
     
     <item>

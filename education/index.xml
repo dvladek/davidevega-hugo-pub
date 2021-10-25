@@ -6,7 +6,7 @@
     <description>Recent content in Education on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
@@ -28,18 +28,9 @@ The lectures and activities give training about all the theoretical aspects rela
     </item>
     
     <item>
-      <title>Observing gender roles in mainstream TV shows</title>
-      <link>https://davidevega.eu/education/proposals/gender_tv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/education/proposals/gender_tv/</guid>
-      <description>The power of mass media, such as TV shows, lies in their ability to influence our cultural and political ideas through the lens of their characters or the society they depict. In non-fictional dramas these representations can provide, for the most part and with some limitations, an accurate account of how a particular issue is perceived within a portion of the society. The goal of this project is to study how gender is represented in western TV shows.</description>
-    </item>
-    
-    <item>
       <title>Advanced Software Design</title>
       <link>https://davidevega.eu/education/courses/asd/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/courses/asd/</guid>
       <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.
