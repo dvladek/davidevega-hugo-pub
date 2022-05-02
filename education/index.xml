@@ -6,7 +6,7 @@
     <description>Recent content in Education on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
@@ -18,13 +18,42 @@ The first part of the project consists on exploring what type of platforms we ca
     </item>
     
     <item>
+      <title>Introduction to Network Science</title>
+      <link>https://davidevega.eu/education/courses/net/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/courses/net/</guid>
+      <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .
+Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös- Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
+    </item>
+    
+    <item>
       <title>Software Engineering and Project Management</title>
       <link>https://davidevega.eu/education/courses/sepm/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/courses/sepm/</guid>
       <description>The objective of this course is to give both (i) basic and some advanced theoretical knowledge and (ii) practical skills in software engineering and project management. In short, in this course we will take a practical perspective, but the course also includes a fair amount of theoretical concepts and ideas. The course is structured around lectures, activities and a project.
 The lectures and activities give training about all the theoretical aspects related with specifying, managing and maintaining large scale and complex software projects; emphasizing agile approaches over others.</description>
+    </item>
+    
+    <item>
+      <title>International mobility patterns in competitive sports events</title>
+      <link>https://davidevega.eu/education/proposals/chess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/proposals/chess/</guid>
+      <description>In this project we are interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Computational Social Science</title>
+      <link>https://davidevega.eu/education/courses/css/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/courses/css/</guid>
+      <description>This is a new interdisciplinary course I am currently developing in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and it will be taught for the first time in Spring 2022.
+The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
     
     <item>
@@ -38,31 +67,12 @@ The main content of the course that we cover are principles and methods for soft
     </item>
     
     <item>
-      <title>International mobility patterns in competitive sports events</title>
-      <link>https://davidevega.eu/education/proposals/chess/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/education/proposals/chess/</guid>
-      <description>In this project we are interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.</description>
-    </item>
-    
-    <item>
       <title>Maintenance Programming</title>
       <link>https://davidevega.eu/education/courses/mp/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/courses/mp/</guid>
       <description>The main objective of the course is to teach techniques and methods for developing and extending correct, stable, maintainable and efficient software, documentation as program specification, code and memory profiling as a support for program optimising. It also touches on software developing aids and methods such as code-inspection and method-based testing.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Computational Social Science</title>
-      <link>https://davidevega.eu/education/courses/css/</link>
-      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/education/courses/css/</guid>
-      <description>This is a new interdisciplinary course I am currently developing in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and it will be taught for the first time in Spring 2022.
-The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
     
     <item>

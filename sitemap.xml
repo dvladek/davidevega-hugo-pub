@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidevega.eu/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidevega.eu/research/conversations/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,17 +13,17 @@
   </url><url>
     <loc>https://davidevega.eu/education/proposals/trust_manipulation/</loc>
   </url><url>
+    <loc>https://davidevega.eu/education/courses/net/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidevega.eu/pubs/vega2019working_bipartite/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/education/courses/sepm/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/pubs/vega2019working_education/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidevega.eu/education/courses/asd/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/research/virt-eu/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
@@ -30,22 +33,31 @@
   </url><url>
     <loc>https://davidevega.eu/education/proposals/chess/</loc>
   </url><url>
+    <loc>https://davidevega.eu/education/courses/css/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidevega.eu/education/courses/asd/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidevega.eu/education/courses/mp/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/courses/css/</loc>
-    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+    <loc>https://davidevega.eu/posts/</loc>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/education/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</loc>
-    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+    <loc>https://davidevega.eu/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/news/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</loc>
@@ -77,6 +89,9 @@
   </url><url>
     <loc>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidevega.eu/pubs/funda2020iot_sna/</loc>
+    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/education/projects/2021_productivity/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
@@ -113,9 +128,6 @@
   </url><url>
     <loc>https://davidevega.eu/pubs/interdonato2020mpx_spl/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://davidevega.eu/pubs/funda2020iot_sna/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/education/projects/2019_gdpr/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
@@ -253,8 +265,6 @@
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidevega.eu/pubs/funda2019working_iot/</loc>
-  </url><url>
-    <loc>https://davidevega.eu/posts/</loc>
   </url><url>
     <loc>https://davidevega.eu/tags/chess/</loc>
   </url><url>

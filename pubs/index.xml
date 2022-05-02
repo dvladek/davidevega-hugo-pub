@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>A Twitter-Based Study of the European Internet of Things</title>
+      <link>https://davidevega.eu/pubs/funda2020iot_sna/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/funda2020iot_sna/</guid>
+      <description>We present a methodology integrating social media data, data from qualitative research and network analysis. Qualitative insights gained from ethnographic fieldwork are used to collect and annotate social network data, and social media data is used as part of the ethnography to identify relevant actors and topics. The methodology is presented in the context of an analysis of the Internet of Things in the European context.</description>
+    </item>
+    
+    <item>
       <title>An Analysis of the Consequences of the General Data Protection Regulation (GDPR) on Social Network Research</title>
       <link>https://davidevega.eu/pubs/kostios2019gdpr_nhb/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
@@ -77,15 +86,6 @@
       
       <guid>https://davidevega.eu/pubs/interdonato2020mpx_spl/</guid>
       <description>Multilayer networks have been widely used to represent and analyze systems of interconnected entities where both the entities and their connections can be of different types. However, real multilayer networks can be difficult to analyze because of irrelevant information, such as layers not related to the objective of the analysis, because of their size, or because traditional methods defined to analyze simple networks do not have a straightforward extension able to handle multiple layers.</description>
-    </item>
-    
-    <item>
-      <title>A Twitter-Based Study of the European Internet of Things</title>
-      <link>https://davidevega.eu/pubs/funda2020iot_sna/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/pubs/funda2020iot_sna/</guid>
-      <description>We present a methodology integrating social media data, data from qualitative research and network analysis. Qualitative insights gained from ethnographic fieldwork are used to collect and annotate social network data, and social media data is used as part of the ethnography to identify relevant actors and topics. The methodology is presented in the context of an analysis of the Internet of Things in the European context.</description>
     </item>
     
     <item>
