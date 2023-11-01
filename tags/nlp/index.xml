@@ -6,7 +6,43 @@
     <description>Recent content in nlp on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Extraction of Insurance Policy Information</title>
+      <link>https://davidevega.eu/education/projects/2023_insurance/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_insurance/</guid>
+      <description>This thesis investigates Natural Language Processing (NLP) techniques to extract relevant information from long and unstructured insurance policy documents. The goal is to reduce the amount of time required by readers to understand the coverage within the documents. The study uses predefined insurance policy coverage parameters, created by industry experts to represent what is covered in the policy documents. Three NLP approaches are used to classify the text sequences as insurance parameter classes.</description>
+    </item>
+    
+    <item>
+      <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
+      <link>https://davidevega.eu/education/projects/2022_nato/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_nato/</guid>
+      <description>Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset.</description>
+    </item>
+    
+    <item>
+      <title>The Portrayal of the 2022 Russian Invasion of Ukraine on Social Media</title>
+      <link>https://davidevega.eu/education/projects/2022_invasion/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_invasion/</guid>
+      <description>Everyday communication consists of a complex of information, objective, and subjective. The meaning one tries to convey may hide certain attitudes, opinions, or even an attempt to influence the other, whether it is done knowingly or not. This can be achieved by analysing the content, such as its structure, grammar, and vocabulary. Social media as a form of communication is no exception to this fact. Discourse can be analysed by taking into account the underlying discursive production and interpret it in relation to this contextual understanding.</description>
+    </item>
+    
+    <item>
+      <title>Exploring How Swedish News are Framed Online</title>
+      <link>https://davidevega.eu/education/projects/2022_newspapers/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_newspapers/</guid>
+      <description>The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others.</description>
+    </item>
+    
     <item>
       <title>Text to features for Swedish text</title>
       <link>https://davidevega.eu/education/projects/2019_text_features_swedish/</link>

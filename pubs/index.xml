@@ -6,7 +6,7 @@
     <description>Recent content in Pubs on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/pubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The limits of information consumption</title>
       <link>https://davidevega.eu/pubs/vega2021working_news/</link>
@@ -17,11 +17,20 @@
     </item>
     
     <item>
-      <title>The structure and properties of bipartite networks</title>
-      <link>https://davidevega.eu/pubs/vega2019working_bipartite/</link>
+      <title>Controversies in sustainability narratives</title>
+      <link>https://davidevega.eu/pubs/vega2023working_controversies/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://davidevega.eu/pubs/vega2019working_bipartite/</guid>
+      <guid>https://davidevega.eu/pubs/vega2023working_controversies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft skills in software engineering: a swedish-industry perspective from</title>
+      <link>https://davidevega.eu/pubs/vega2023working_se/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2023working_se/</guid>
       <description></description>
     </item>
     
@@ -35,11 +44,38 @@
     </item>
     
     <item>
-      <title>Observing the tech, using MeetUp data to study the evolution of the discourse around IoT</title>
-      <link>https://davidevega.eu/pubs/funda2020working_meetup/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <title>User behavior influences structural properties of growing networks</title>
+      <link>https://davidevega.eu/pubs/goglia2023aita_poster/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://davidevega.eu/pubs/funda2020working_meetup/</guid>
+      <guid>https://davidevega.eu/pubs/goglia2023aita_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dissemination of alternative media content in right-leaning online communities</title>
+      <link>https://davidevega.eu/pubs/vega2023ic2s2_ttn/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2023ic2s2_ttn/</guid>
+      <description>In this study, we explore the dynamics of conversations on Flashback, a Swedish online forum that has more than 1.5M registered users as of February 2023 and that claims to ensure freedom of speech and users’ anonymity. Specifically, we focus on the &amp;quot;Immigration and integration&amp;quot; [Integration och invandring] subforum, where a large part of immigration-related discussions takes place. Flashback’s case is especially interesting since previous research has demonstrated that biased and Islamophobic narratives are quite common on the platform (Kaati et al.</description>
+    </item>
+    
+    <item>
+      <title>Robustness and Sensitivity of Network-Based Topic Detection</title>
+      <link>https://davidevega.eu/pubs/galluccio022cna_txt/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/galluccio022cna_txt/</guid>
+      <description>In the context of textual analysis, network-based procedures for topic detection are gaining attention as an alternative to classical topic models. Network-based procedures are based on the idea that documents can be represented as word co-occurrence networks, where topics are defined as groups of strongly connected words. Although many works have used network-based procedures for topic detection, there is a lack of systematic analysis of how different design choices, such as the building of the word co-occurrence matrix and the selection of the community detection algorithm, affect the final results in terms of detected topics.</description>
+    </item>
+    
+    <item>
+      <title>Immigrant-critical alternative media in online conversations</title>
+      <link>https://davidevega.eu/pubs/yantseva2023altright_css/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/yantseva2023altright_css/</guid>
       <description></description>
     </item>
     
@@ -409,6 +445,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/pubs/funda2019working_iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidevega.eu/pubs/funda2020working_meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/funda2020working_meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidevega.eu/pubs/vega2019working_bipartite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2019working_bipartite/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Davide Vega D&#39;Aurelio</title>
+    <link>https://davidevega.eu/tags/privacy/</link>
+    <description>Recent content in privacy on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Scalable Platform for Data-Intensive Visualization</title>
+      <link>https://davidevega.eu/education/projects/2022_platform/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
+      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.
+To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
+    </item>
+    
+  </channel>
+</rss>

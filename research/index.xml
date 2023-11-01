@@ -6,7 +6,7 @@
     <description>Recent content in Research on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling online communication</title>
       <link>https://davidevega.eu/research/conversations/</link>
@@ -14,6 +14,16 @@
       
       <guid>https://davidevega.eu/research/conversations/</guid>
       <description>The goal of this project is to study methodologies and develop techniques and tools to monitor Social Network Sites and to identify relevant structural and communication patterns.</description>
+    </item>
+    
+    <item>
+      <title>Nordic Observatory for Digital Media and Information Disorder</title>
+      <link>https://davidevega.eu/research/nordis/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/research/nordis/</guid>
+      <description>The Nordic Observatory for Digital Media and Information Disorder (NORDIS) is a consortium of researchers and fact-checkers from Denmark, Norway, Sweden, and Finland. We are one of the national hubs of The European Digital Media Observatory (EDMO).
+Project Abstract The aim is to develop theories, practices and models that can help counteract digital information disorders – the spread of misinformation, disinformation and other forms of harmful information online – and to help empower citizens in the Nordic welfare states to resist such information by enabling them to enhance their media literacy.</description>
     </item>
     
     <item>

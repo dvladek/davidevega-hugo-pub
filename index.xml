@@ -6,7 +6,26 @@
     <description>Recent content on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Network Science</title>
+      <link>https://davidevega.eu/education/courses/net/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/courses/net/</guid>
+      <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .
+Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös-Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral position available in Computer Science with a focus on Professional Competences and Equal Opportunities</title>
+      <link>https://davidevega.eu/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</guid>
+      <description>We are hiring a postdoctoral researcher in computer science to work at the intersection of data science, education, AI bias and equal opportunities.</description>
+    </item>
+    
     <item>
       <title>PhD position available in Data Science for the analysis of online communication</title>
       <link>https://davidevega.eu/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</link>
@@ -45,32 +64,52 @@ The first part of the project consists on exploring what type of platforms we ca
     </item>
     
     <item>
-      <title>Introduction to Network Science</title>
-      <link>https://davidevega.eu/education/courses/net/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Introduction to Computational Social Science</title>
+      <link>https://davidevega.eu/education/courses/css/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://davidevega.eu/education/courses/net/</guid>
-      <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .
-Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös- Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
+      <guid>https://davidevega.eu/education/courses/css/</guid>
+      <description>This is a new interdisciplinary course, initially developed in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and taught for the first time in Spring 2022.
+Currently the course is coordinated by Victoria Yantseva (IT Department, InfoLab).
+The course introduces computational approaches to model human behavior and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modeling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
     
     <item>
-      <title>The structure and properties of bipartite networks</title>
-      <link>https://davidevega.eu/pubs/vega2019working_bipartite/</link>
+      <title>Controversies in sustainability narratives</title>
+      <link>https://davidevega.eu/pubs/vega2023working_controversies/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://davidevega.eu/pubs/vega2019working_bipartite/</guid>
+      <guid>https://davidevega.eu/pubs/vega2023working_controversies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Engineering and Project Management</title>
       <link>https://davidevega.eu/education/courses/sepm/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/courses/sepm/</guid>
       <description>The objective of this course is to give both (i) basic and some advanced theoretical knowledge and (ii) practical skills in software engineering and project management. In short, in this course we will take a practical perspective, but the course also includes a fair amount of theoretical concepts and ideas. The course is structured around lectures, activities and a project.
 The lectures and activities give training about all the theoretical aspects related with specifying, managing and maintaining large scale and complex software projects; emphasizing agile approaches over others.</description>
+    </item>
+    
+    <item>
+      <title>Nordic Observatory for Digital Media and Information Disorder</title>
+      <link>https://davidevega.eu/research/nordis/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/research/nordis/</guid>
+      <description>The Nordic Observatory for Digital Media and Information Disorder (NORDIS) is a consortium of researchers and fact-checkers from Denmark, Norway, Sweden, and Finland. We are one of the national hubs of The European Digital Media Observatory (EDMO).
+Project Abstract The aim is to develop theories, practices and models that can help counteract digital information disorders – the spread of misinformation, disinformation and other forms of harmful information online – and to help empower citizens in the Nordic welfare states to resist such information by enabling them to enhance their media literacy.</description>
+    </item>
+    
+    <item>
+      <title>Soft skills in software engineering: a swedish-industry perspective from</title>
+      <link>https://davidevega.eu/pubs/vega2023working_se/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2023working_se/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -92,31 +131,12 @@ The lectures and activities give training about all the theoretical aspects rela
     </item>
     
     <item>
-      <title>Observing the tech, using MeetUp data to study the evolution of the discourse around IoT</title>
-      <link>https://davidevega.eu/pubs/funda2020working_meetup/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/pubs/funda2020working_meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>International mobility patterns in competitive sports events</title>
       <link>https://davidevega.eu/education/proposals/chess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/proposals/chess/</guid>
       <description>In this project we are interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Computational Social Science</title>
-      <link>https://davidevega.eu/education/courses/css/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidevega.eu/education/courses/css/</guid>
-      <description>This is a new interdisciplinary course I am currently developing in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and it will be taught for the first time in Spring 2022.
-The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
     
     <item>
@@ -136,6 +156,161 @@ The main content of the course that we cover are principles and methods for soft
       
       <guid>https://davidevega.eu/education/courses/mp/</guid>
       <description>The main objective of the course is to teach techniques and methods for developing and extending correct, stable, maintainable and efficient software, documentation as program specification, code and memory profiling as a support for program optimising. It also touches on software developing aids and methods such as code-inspection and method-based testing.</description>
+    </item>
+    
+    <item>
+      <title>User behavior influences structural properties of growing networks</title>
+      <link>https://davidevega.eu/pubs/goglia2023aita_poster/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/goglia2023aita_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD course in Network Science funding renewed</title>
+      <link>https://davidevega.eu/news/2023/10/13/phd-course-in-network-science-funding-renewed/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2023/10/13/phd-course-in-network-science-funding-renewed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Allure of Automated Machine Learning Services: How SMEs and non-expert users can benefit from AutoML frameworks</title>
+      <link>https://davidevega.eu/education/projects/2023_insurance-copy/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_insurance-copy/</guid>
+      <description>This study investigates how small and medium sized enterprises (SMEs) and other resource-lacking organisations can utilise automated machine learning (AutoML) to lessen the development hurdles associated with machine learning model development. This is achieved by comparing the performance, cost of usage, as well as usability and documentation for machine learning models developed through two AutoML frameworks: Vertex AI on Google Cloud™ and the open-source library AutoGluon, developed by Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>The dissemination of alternative media content in right-leaning online communities</title>
+      <link>https://davidevega.eu/pubs/vega2023ic2s2_ttn/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2023ic2s2_ttn/</guid>
+      <description>In this study, we explore the dynamics of conversations on Flashback, a Swedish online forum that has more than 1.5M registered users as of February 2023 and that claims to ensure freedom of speech and users’ anonymity. Specifically, we focus on the &amp;quot;Immigration and integration&amp;quot; [Integration och invandring] subforum, where a large part of immigration-related discussions takes place. Flashback’s case is especially interesting since previous research has demonstrated that biased and Islamophobic narratives are quite common on the platform (Kaati et al.</description>
+    </item>
+    
+    <item>
+      <title>Talk at IC2S2 2023: The dissemination of alternative media content in right-leaning online communities</title>
+      <link>https://davidevega.eu/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Extraction of Insurance Policy Information</title>
+      <link>https://davidevega.eu/education/projects/2023_insurance/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_insurance/</guid>
+      <description>This thesis investigates Natural Language Processing (NLP) techniques to extract relevant information from long and unstructured insurance policy documents. The goal is to reduce the amount of time required by readers to understand the coverage within the documents. The study uses predefined insurance policy coverage parameters, created by industry experts to represent what is covered in the policy documents. Three NLP approaches are used to classify the text sequences as insurance parameter classes.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Ownership of Personal data in the Cloud by Optimizing the IT Architecture</title>
+      <link>https://davidevega.eu/education/projects/2023_architecture/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_architecture/</guid>
+      <description>Cloud computing is an area that many companies use in order to stay in line with technological development. To keep these systems productive and easily managed, a reference architecture can be used as a framework and also as a manual on how to structure an organization to suit its specific needs and goals. The reference architecture can make it easier to divide responsibility as well as working tasks within an organization.</description>
+    </item>
+    
+    <item>
+      <title>Keynote talk at ARS&#39;23 Ninth International Workshop on Social Network Analysis</title>
+      <link>https://davidevega.eu/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International mobility patterns in competitive sports events</title>
+      <link>https://davidevega.eu/education/projects/2023_chess/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
+      <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
+    </item>
+    
+    <item>
+      <title>Scalable Network Analysis Platform</title>
+      <link>https://davidevega.eu/education/projects/2023_platform/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
+      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.
+In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
+    </item>
+    
+    <item>
+      <title>Robustness and Sensitivity of Network-Based Topic Detection</title>
+      <link>https://davidevega.eu/pubs/galluccio022cna_txt/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/galluccio022cna_txt/</guid>
+      <description>In the context of textual analysis, network-based procedures for topic detection are gaining attention as an alternative to classical topic models. Network-based procedures are based on the idea that documents can be represented as word co-occurrence networks, where topics are defined as groups of strongly connected words. Although many works have used network-based procedures for topic detection, there is a lack of systematic analysis of how different design choices, such as the building of the word co-occurrence matrix and the selection of the community detection algorithm, affect the final results in terms of detected topics.</description>
+    </item>
+    
+    <item>
+      <title>Immigrant-critical alternative media in online conversations</title>
+      <link>https://davidevega.eu/pubs/yantseva2023altright_css/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/yantseva2023altright_css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
+      <link>https://davidevega.eu/education/projects/2022_nato/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_nato/</guid>
+      <description>Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset.</description>
+    </item>
+    
+    <item>
+      <title>The Portrayal of the 2022 Russian Invasion of Ukraine on Social Media</title>
+      <link>https://davidevega.eu/education/projects/2022_invasion/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_invasion/</guid>
+      <description>Everyday communication consists of a complex of information, objective, and subjective. The meaning one tries to convey may hide certain attitudes, opinions, or even an attempt to influence the other, whether it is done knowingly or not. This can be achieved by analysing the content, such as its structure, grammar, and vocabulary. Social media as a form of communication is no exception to this fact. Discourse can be analysed by taking into account the underlying discursive production and interpret it in relation to this contextual understanding.</description>
+    </item>
+    
+    <item>
+      <title>Exploring How Swedish News are Framed Online</title>
+      <link>https://davidevega.eu/education/projects/2022_newspapers/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_newspapers/</guid>
+      <description>The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others.</description>
+    </item>
+    
+    <item>
+      <title>A Scalable Platform for Data-Intensive Visualization</title>
+      <link>https://davidevega.eu/education/projects/2022_platform/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
+      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.
+To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
+    </item>
+    
+    <item>
+      <title>Sophie Germain program grant, Computational methods and news framing</title>
+      <link>https://davidevega.eu/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -256,7 +431,7 @@ With the purpose of understanding how the Storytel Tech Department is performing
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/education/projects/2021_sbm/</guid>
-      <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
+      <description>Stochastic block models (SBM) are generative models for network structures such as communities, sets of nodes characterized by being more densely connected with one another than with the rest of the network. One of the main advantages of generative models, such as SBM, is that they open the door to inference: if we are given a network G, we can use techniques from statistical inference to estimate the values of θ that best explain or reproduce the observed pattern of connectivity.</description>
     </item>
     
     <item>
@@ -266,6 +441,15 @@ With the purpose of understanding how the Storytel Tech Department is performing
       
       <guid>https://davidevega.eu/pubs/kostios2019gdpr_nhb/</guid>
       <description>We present a methodology integrating social media data, data from qualitative research and network analysis. Qualitative insights gained from ethnographic fieldwork are used to collect and annotate social network data, and social media data is used as part of the ethnography to identify relevant actors and topics. The methodology is presented in the context of an analysis of the Internet of Things in the European context.</description>
+    </item>
+    
+    <item>
+      <title>Uppsala University grant for course &#34;Introduction to Computational Social Science&#34;</title>
+      <link>https://davidevega.eu/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -643,6 +827,24 @@ With the purpose of understanding how the Storytel Tech Department is performing
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidevega.eu/pubs/funda2019working_iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidevega.eu/pubs/funda2020working_meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/funda2020working_meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidevega.eu/pubs/vega2019working_bipartite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidevega.eu/pubs/vega2019working_bipartite/</guid>
       <description></description>
     </item>
     
