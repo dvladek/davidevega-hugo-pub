@@ -6,52 +6,43 @@
     <description>Recent content in news on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidevega.eu/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/proposals/trust_manipulation/</guid>
       <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.
 The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
     </item>
-    
     <item>
       <title>International mobility patterns in competitive sports events</title>
       <link>https://davidevega.eu/education/projects/2023_chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
       <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
     </item>
-    
     <item>
       <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
       <link>https://davidevega.eu/education/projects/2022_nato/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_nato/</guid>
       <description>Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset.</description>
     </item>
-    
     <item>
       <title>Exploring How Swedish News are Framed Online</title>
       <link>https://davidevega.eu/education/projects/2022_newspapers/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_newspapers/</guid>
       <description>The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others.</description>
     </item>
-    
     <item>
       <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>
       <link>https://davidevega.eu/education/projects/2021_newspapers/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2021_newspapers/</guid>
       <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
     </item>
-    
   </channel>
 </rss>

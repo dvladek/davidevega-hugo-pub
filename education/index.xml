@@ -6,231 +6,184 @@
     <description>Recent content in Education on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidevega.eu/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Network Science</title>
       <link>https://davidevega.eu/education/courses/net/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/courses/net/</guid>
       <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .
 Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös-Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
     </item>
-    
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/proposals/trust_manipulation/</guid>
       <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.
 The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
     </item>
-    
     <item>
       <title>Introduction to Computational Social Science</title>
       <link>https://davidevega.eu/education/courses/css/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/courses/css/</guid>
       <description>This is a new interdisciplinary course, initially developed in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and taught for the first time in Spring 2022.
 Currently the course is coordinated by Victoria Yantseva (IT Department, InfoLab).
 The course introduces computational approaches to model human behavior and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modeling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
-    
     <item>
       <title>Software Engineering and Project Management</title>
       <link>https://davidevega.eu/education/courses/sepm/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/courses/sepm/</guid>
       <description>The objective of this course is to give both (i) basic and some advanced theoretical knowledge and (ii) practical skills in software engineering and project management. In short, in this course we will take a practical perspective, but the course also includes a fair amount of theoretical concepts and ideas. The course is structured around lectures, activities and a project.
 The lectures and activities give training about all the theoretical aspects related with specifying, managing and maintaining large scale and complex software projects; emphasizing agile approaches over others.</description>
     </item>
-    
     <item>
       <title>International mobility patterns in competitive sports events</title>
       <link>https://davidevega.eu/education/proposals/chess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/proposals/chess/</guid>
       <description>In this project we are interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.</description>
     </item>
-    
     <item>
       <title>Advanced Software Design</title>
       <link>https://davidevega.eu/education/courses/asd/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/courses/asd/</guid>
       <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.
 The main content of the course that we cover are principles and methods for software design with a special focus on object-oriented analysis and design; which includes topics such as domain modelling, software architecture, class and object modelling, behavioural modelling, design patterns, General Responsibility Assignment Software Principles (GRASP) design principles, design evaluation and improvement, and refactoring.</description>
     </item>
-    
     <item>
       <title>Maintenance Programming</title>
       <link>https://davidevega.eu/education/courses/mp/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/courses/mp/</guid>
       <description>The main objective of the course is to teach techniques and methods for developing and extending correct, stable, maintainable and efficient software, documentation as program specification, code and memory profiling as a support for program optimising. It also touches on software developing aids and methods such as code-inspection and method-based testing.</description>
     </item>
-    
     <item>
       <title>The Allure of Automated Machine Learning Services: How SMEs and non-expert users can benefit from AutoML frameworks</title>
       <link>https://davidevega.eu/education/projects/2023_insurance-copy/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_insurance-copy/</guid>
       <description>This study investigates how small and medium sized enterprises (SMEs) and other resource-lacking organisations can utilise automated machine learning (AutoML) to lessen the development hurdles associated with machine learning model development. This is achieved by comparing the performance, cost of usage, as well as usability and documentation for machine learning models developed through two AutoML frameworks: Vertex AI on Google Cloud™ and the open-source library AutoGluon, developed by Amazon Web Services.</description>
     </item>
-    
     <item>
       <title>Automated Extraction of Insurance Policy Information</title>
       <link>https://davidevega.eu/education/projects/2023_insurance/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_insurance/</guid>
       <description>This thesis investigates Natural Language Processing (NLP) techniques to extract relevant information from long and unstructured insurance policy documents. The goal is to reduce the amount of time required by readers to understand the coverage within the documents. The study uses predefined insurance policy coverage parameters, created by industry experts to represent what is covered in the policy documents. Three NLP approaches are used to classify the text sequences as insurance parameter classes.</description>
     </item>
-    
     <item>
       <title>Evaluating the Ownership of Personal data in the Cloud by Optimizing the IT Architecture</title>
       <link>https://davidevega.eu/education/projects/2023_architecture/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_architecture/</guid>
       <description>Cloud computing is an area that many companies use in order to stay in line with technological development. To keep these systems productive and easily managed, a reference architecture can be used as a framework and also as a manual on how to structure an organization to suit its specific needs and goals. The reference architecture can make it easier to divide responsibility as well as working tasks within an organization.</description>
     </item>
-    
     <item>
       <title>International mobility patterns in competitive sports events</title>
       <link>https://davidevega.eu/education/projects/2023_chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
       <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
     </item>
-    
     <item>
       <title>Scalable Network Analysis Platform</title>
       <link>https://davidevega.eu/education/projects/2023_platform/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
       <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.
 In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
     </item>
-    
     <item>
       <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
       <link>https://davidevega.eu/education/projects/2022_nato/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_nato/</guid>
       <description>Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset.</description>
     </item>
-    
     <item>
       <title>The Portrayal of the 2022 Russian Invasion of Ukraine on Social Media</title>
       <link>https://davidevega.eu/education/projects/2022_invasion/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_invasion/</guid>
       <description>Everyday communication consists of a complex of information, objective, and subjective. The meaning one tries to convey may hide certain attitudes, opinions, or even an attempt to influence the other, whether it is done knowingly or not. This can be achieved by analysing the content, such as its structure, grammar, and vocabulary. Social media as a form of communication is no exception to this fact. Discourse can be analysed by taking into account the underlying discursive production and interpret it in relation to this contextual understanding.</description>
     </item>
-    
     <item>
       <title>Exploring How Swedish News are Framed Online</title>
       <link>https://davidevega.eu/education/projects/2022_newspapers/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_newspapers/</guid>
       <description>The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others.</description>
     </item>
-    
     <item>
       <title>A Scalable Platform for Data-Intensive Visualization</title>
       <link>https://davidevega.eu/education/projects/2022_platform/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
       <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.
 To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
     </item>
-    
     <item>
       <title>Listening in on Productivity: Applying the Four Key Metrics to measure productivity in a software development company</title>
       <link>https://davidevega.eu/education/projects/2021_productivity/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2021_productivity/</guid>
       <description>Software development is an area in which companies not only need to keep up with the latest technology, but they additionally need to continuously increase their productivity to stay competitive in the industry. One company currently facing these challenges is Storytel - one of the strongest players on the Swedish audiobook market - with about a fourth of all employees involved with software development, and a rapidly growing workforce.
 With the purpose of understanding how the Storytel Tech Department is performing, this thesis maps Storytel’s productivity defined through the Four Key Metrics - Deployment Frequency, Delivery Lead Time, Mean Time To Restore and Change Fail Rate.</description>
     </item>
-    
     <item>
       <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>
       <link>https://davidevega.eu/education/projects/2021_newspapers/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2021_newspapers/</guid>
       <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
     </item>
-    
     <item>
       <title>Stochastic blockmodeling methods for bipartite graphs</title>
       <link>https://davidevega.eu/education/projects/2021_sbm/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2021_sbm/</guid>
       <description>Stochastic block models (SBM) are generative models for network structures such as communities, sets of nodes characterized by being more densely connected with one another than with the rest of the network. One of the main advantages of generative models, such as SBM, is that they open the door to inference: if we are given a network G, we can use techniques from statistical inference to estimate the values of θ that best explain or reproduce the observed pattern of connectivity.</description>
     </item>
-    
     <item>
       <title>A system for GDPR-compliant collection of social media data: from legal to software requirements</title>
       <link>https://davidevega.eu/education/projects/2019_gdpr/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2019_gdpr/</guid>
       <description>As of 2018 there is a new regulation regarding data protection in the European union. The legislation, often refereed to as the General Data Protection Regulation (GDPR), has led to increased demands on organizations that processes personal data. This thesis has investigated the legal consequences of social media data collection with a certain focus on collection of tweets. The legal findings was then translated into possible enhancements of a tweet collecting software.</description>
     </item>
-    
     <item>
       <title>Text to features for Swedish text</title>
       <link>https://davidevega.eu/education/projects/2019_text_features_swedish/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2019_text_features_swedish/</guid>
       <description>In text mining, texts are usually transformed into numerical vectors or feature vectors, before they are given to a machine learning algorithm for text classification. In this project, a set of features for classifying tweets in Swedish was created. The following classification tasks were selected: gender, age and political party prediction, sentiment analysis and authorship attribution, which is the task of determining if a text was written by a particular author or not.</description>
     </item>
-    
     <item>
       <title>Pattern Detection in Bipartite Temporal Network</title>
       <link>https://davidevega.eu/education/projects/2018_pattern_bbt/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2018_pattern_bbt/</guid>
       <description>Pattern detection in social networks has been of great interest recently because it helps to reveal insights about how people communicate. In graph mining, this is referred to as a frequent sub-graphs mining problem and it has many variations regarding the structure of the network - i.e. how much information the graph holds. As a part of the evolution of the problem, additional information such as data dimensions or more advanced network structure are incorporated to the input to find more interesting hidden patterns.</description>
     </item>
-    
     <item>
       <title>Cyber Challenge Competition 2019</title>
       <link>https://davidevega.eu/education/projects/2018_cyberchallenge/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2018_cyberchallenge/</guid>
       <description>Analysis of a simulated national thread scenario and creation/defense of a policy brief document</description>
     </item>
-    
     <item>
       <title>Measure development and social media analysis using temporal text networks</title>
       <link>https://davidevega.eu/education/projects/2018_analysis_ttt/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2018_analysis_ttt/</guid>
       <description>The widespread social media usage generates an immense amount of data. Data which is highly beneficial to several domains whether monetary or research based. Various models exist to extract this data however analysis tend to be restrictive. The temporal text network model is a dynamic network model built upon the foundation of temporal networks. It provides text as a variable and considers messages passed between users while maintaining the time of transmission, making it suitable for social media analysis.</description>
     </item>
-    
   </channel>
 </rss>

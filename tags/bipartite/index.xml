@@ -6,15 +6,14 @@
     <description>Recent content in bipartite on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/tags/bipartite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidevega.eu/tags/bipartite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pattern Detection in Bipartite Temporal Network</title>
       <link>https://davidevega.eu/education/projects/2018_pattern_bbt/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/education/projects/2018_pattern_bbt/</guid>
       <description>Pattern detection in social networks has been of great interest recently because it helps to reveal insights about how people communicate. In graph mining, this is referred to as a frequent sub-graphs mining problem and it has many variations regarding the structure of the network - i.e. how much information the graph holds. As a part of the evolution of the problem, additional information such as data dimensions or more advanced network structure are incorporated to the input to find more interesting hidden patterns.</description>
     </item>
-    
   </channel>
 </rss>

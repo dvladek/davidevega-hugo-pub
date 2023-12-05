@@ -6,34 +6,29 @@
     <description>Recent content in Research on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling online communication</title>
       <link>https://davidevega.eu/research/conversations/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/research/conversations/</guid>
       <description>The goal of this project is to study methodologies and develop techniques and tools to monitor Social Network Sites and to identify relevant structural and communication patterns.</description>
     </item>
-    
     <item>
       <title>Nordic Observatory for Digital Media and Information Disorder</title>
       <link>https://davidevega.eu/research/nordis/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/research/nordis/</guid>
       <description>The Nordic Observatory for Digital Media and Information Disorder (NORDIS) is a consortium of researchers and fact-checkers from Denmark, Norway, Sweden, and Finland. We are one of the national hubs of The European Digital Media Observatory (EDMO).
 Project Abstract The aim is to develop theories, practices and models that can help counteract digital information disorders – the spread of misinformation, disinformation and other forms of harmful information online – and to help empower citizens in the Nordic welfare states to resist such information by enabling them to enhance their media literacy.</description>
     </item>
-    
     <item>
       <title>Values and Ethics in Innovation for Responsible Technology in Europe</title>
       <link>https://davidevega.eu/research/virt-eu/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://davidevega.eu/research/virt-eu/</guid>
       <description>The goal of the project is to analyze and map the ethical practices of European hardware and software entrepreneurs, maker and hacker spaces, and community innovators in order to: (1) understand how IoT innovators enact ethics as they design future devices, (2) generate a new framework for Privacy, Ethical and Social Impact Assessment (PESIA) and (3) develop tools to support ethical reflection and self-assessment as part the design and development process for IoT technologies.</description>
     </item>
-    
   </channel>
 </rss>
