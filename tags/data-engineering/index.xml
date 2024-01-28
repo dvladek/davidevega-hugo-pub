@@ -20,16 +20,14 @@
       <link>https://davidevega.eu/education/projects/2023_platform/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
-      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.
-In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
+      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.&#xA;In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
     </item>
     <item>
       <title>A Scalable Platform for Data-Intensive Visualization</title>
       <link>https://davidevega.eu/education/projects/2022_platform/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
-      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.
-To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
+      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.&#xA;To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
     </item>
   </channel>
 </rss>

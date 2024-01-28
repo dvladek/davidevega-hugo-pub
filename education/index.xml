@@ -13,33 +13,28 @@
       <link>https://davidevega.eu/education/courses/net/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/courses/net/</guid>
-      <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .
-Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös-Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
+      <description>This is a co-taught with the other members of the InfoLab Matteo Magnani and Christian Rohner .&#xA;Network Science is a very active and interdisciplinary research area aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, &amp;hellip;), network properties (degree distribution, average path length, &amp;hellip;), network models (Erdös-Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, &amp;hellip;), and the main network mining tasks (position/role detection, link prediction, community detection).</description>
     </item>
     <item>
       <title>Trust and media manipulation I</title>
       <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/proposals/trust_manipulation/</guid>
-      <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.
-The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
+      <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.&#xA;The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
     </item>
     <item>
       <title>Introduction to Computational Social Science</title>
       <link>https://davidevega.eu/education/courses/css/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/courses/css/</guid>
-      <description>This is a new interdisciplinary course, initially developed in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and taught for the first time in Spring 2022.
-Currently the course is coordinated by Victoria Yantseva (IT Department, InfoLab).
-The course introduces computational approaches to model human behavior and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modeling), basic concepts and techniques for running experiments (asking vs.</description>
+      <description>This is a new interdisciplinary course, initially developed in collaboration with Matteo Magnani (IT Department, InfoLab), Miia Bark (Department of Sociology) and Alexandra Segerberg (Department of Government) and taught for the first time in Spring 2022.&#xA;Currently the course is coordinated by Victoria Yantseva (IT Department, InfoLab).&#xA;The course introduces computational approaches to model human behavior and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modeling), basic concepts and techniques for running experiments (asking vs.</description>
     </item>
     <item>
       <title>Software Engineering and Project Management</title>
       <link>https://davidevega.eu/education/courses/sepm/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/courses/sepm/</guid>
-      <description>The objective of this course is to give both (i) basic and some advanced theoretical knowledge and (ii) practical skills in software engineering and project management. In short, in this course we will take a practical perspective, but the course also includes a fair amount of theoretical concepts and ideas. The course is structured around lectures, activities and a project.
-The lectures and activities give training about all the theoretical aspects related with specifying, managing and maintaining large scale and complex software projects; emphasizing agile approaches over others.</description>
+      <description>The objective of this course is to give both (i) basic and some advanced theoretical knowledge and (ii) practical skills in software engineering and project management. In short, in this course we will take a practical perspective, but the course also includes a fair amount of theoretical concepts and ideas. The course is structured around lectures, activities and a project.&#xA;The lectures and activities give training about all the theoretical aspects related with specifying, managing and maintaining large scale and complex software projects; emphasizing agile approaches over others.</description>
     </item>
     <item>
       <title>International mobility patterns in competitive sports events</title>
@@ -53,8 +48,7 @@ The lectures and activities give training about all the theoretical aspects rela
       <link>https://davidevega.eu/education/courses/asd/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/courses/asd/</guid>
-      <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.
-The main content of the course that we cover are principles and methods for software design with a special focus on object-oriented analysis and design; which includes topics such as domain modelling, software architecture, class and object modelling, behavioural modelling, design patterns, General Responsibility Assignment Software Principles (GRASP) design principles, design evaluation and improvement, and refactoring.</description>
+      <description>The objective of this course is to give advanced theoretical and practical knowledge for designing good software.&#xA;The main content of the course that we cover are principles and methods for software design with a special focus on object-oriented analysis and design; which includes topics such as domain modelling, software architecture, class and object modelling, behavioural modelling, design patterns, General Responsibility Assignment Software Principles (GRASP) design principles, design evaluation and improvement, and refactoring.</description>
     </item>
     <item>
       <title>Maintenance Programming</title>
@@ -96,8 +90,7 @@ The main content of the course that we cover are principles and methods for soft
       <link>https://davidevega.eu/education/projects/2023_platform/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
-      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.
-In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
+      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.&#xA;In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
     </item>
     <item>
       <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
@@ -125,16 +118,14 @@ In particular, during this project the students aimed at (a) understanding how a
       <link>https://davidevega.eu/education/projects/2022_platform/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
-      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.
-To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
+      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.&#xA;To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
     </item>
     <item>
       <title>Listening in on Productivity: Applying the Four Key Metrics to measure productivity in a software development company</title>
       <link>https://davidevega.eu/education/projects/2021_productivity/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2021_productivity/</guid>
-      <description>Software development is an area in which companies not only need to keep up with the latest technology, but they additionally need to continuously increase their productivity to stay competitive in the industry. One company currently facing these challenges is Storytel - one of the strongest players on the Swedish audiobook market - with about a fourth of all employees involved with software development, and a rapidly growing workforce.
-With the purpose of understanding how the Storytel Tech Department is performing, this thesis maps Storytel’s productivity defined through the Four Key Metrics - Deployment Frequency, Delivery Lead Time, Mean Time To Restore and Change Fail Rate.</description>
+      <description>Software development is an area in which companies not only need to keep up with the latest technology, but they additionally need to continuously increase their productivity to stay competitive in the industry. One company currently facing these challenges is Storytel - one of the strongest players on the Swedish audiobook market - with about a fourth of all employees involved with software development, and a rapidly growing workforce.&#xA;With the purpose of understanding how the Storytel Tech Department is performing, this thesis maps Storytel’s productivity defined through the Four Key Metrics - Deployment Frequency, Delivery Lead Time, Mean Time To Restore and Change Fail Rate.</description>
     </item>
     <item>
       <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>

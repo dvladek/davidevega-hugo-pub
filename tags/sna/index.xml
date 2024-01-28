@@ -13,8 +13,7 @@
       <link>https://davidevega.eu/education/projects/2023_platform/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
-      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.
-In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
+      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.&#xA;In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
     </item>
   </channel>
 </rss>
