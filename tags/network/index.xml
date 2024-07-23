@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>network on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/network/</link>
-    <description>Recent content in network on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Network on Davide Vega D&#39;Aurelio</title>
+    <link>http://localhost:1313/tags/network/</link>
+    <description>Recent content in Network on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International mobility patterns in competitive sports events</title>
-      <link>https://davidevega.eu/education/projects/2023_chess/</link>
+      <link>http://localhost:1313/education/projects/2023_chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
+      <guid>http://localhost:1313/education/projects/2023_chess/</guid>
       <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
     </item>
   </channel>

@@ -2,101 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New PhD position available in Social Cybersecurity for detecting AI-based social information threads</title>
+      <link>http://localhost:1313/news/2024/05/14/new-phd-position-available-in-social-cybersecurity-for-detecting-ai-based-social-information-threads/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024/05/14/new-phd-position-available-in-social-cybersecurity-for-detecting-ai-based-social-information-threads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Co-organizing the 1st Swedish Conference on Computational Social Science in Uppsala</title>
+      <link>http://localhost:1313/news/2024/04/23/co-organizing-the-1st-swedish-conference-on-computational-social-science-in-uppsala/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024/04/23/co-organizing-the-1st-swedish-conference-on-computational-social-science-in-uppsala/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Workshop at the The Centre for Digital Humanities Uppsala (CDHU)</title>
-      <link>https://davidevega.eu/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</link>
+      <link>http://localhost:1313/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</guid>
+      <guid>http://localhost:1313/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</guid>
       <description></description>
     </item>
     <item>
       <title>Our Sunbelt 2024 organized session &#39;Network clustering and validation: methods and applications&#39; has been approved</title>
-      <link>https://davidevega.eu/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</link>
+      <link>http://localhost:1313/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</guid>
+      <guid>http://localhost:1313/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster at CNA: User behavior influences structural properties of growing networks</title>
-      <link>https://davidevega.eu/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</link>
+      <link>http://localhost:1313/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</guid>
+      <guid>http://localhost:1313/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD course in Network Science funding renewed</title>
-      <link>https://davidevega.eu/news/2023/10/13/phd-course-in-network-science-funding-renewed/</link>
+      <link>http://localhost:1313/news/2023/10/13/phd-course-in-network-science-funding-renewed/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2023/10/13/phd-course-in-network-science-funding-renewed/</guid>
+      <guid>http://localhost:1313/news/2023/10/13/phd-course-in-network-science-funding-renewed/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk at IC2S2 2023: The dissemination of alternative media content in right-leaning online communities</title>
-      <link>https://davidevega.eu/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</link>
+      <link>http://localhost:1313/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</guid>
+      <guid>http://localhost:1313/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</guid>
       <description></description>
     </item>
     <item>
       <title>Keynote talk at ARS&#39;23 Ninth International Workshop on Social Network Analysis</title>
-      <link>https://davidevega.eu/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</link>
+      <link>http://localhost:1313/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</guid>
+      <guid>http://localhost:1313/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Sophie Germain program grant, Computational methods and news framing</title>
-      <link>https://davidevega.eu/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</link>
+      <link>http://localhost:1313/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</guid>
+      <guid>http://localhost:1313/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</guid>
       <description></description>
     </item>
     <item>
       <title>Chydenius Medal awarded to the NORDIS project for defending democracy</title>
-      <link>https://davidevega.eu/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</link>
+      <link>http://localhost:1313/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</guid>
+      <guid>http://localhost:1313/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</guid>
       <description></description>
     </item>
     <item>
       <title>New postdoc position available in Computational Social Science / Social Data Science for the analysis of online disinformation</title>
-      <link>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</link>
+      <link>http://localhost:1313/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</guid>
+      <guid>http://localhost:1313/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</guid>
       <description></description>
     </item>
     <item>
       <title>We lunch the NORDIS project: Nordic Observatory for Digital Media and Information Disorder</title>
-      <link>https://davidevega.eu/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</link>
+      <link>http://localhost:1313/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</guid>
+      <guid>http://localhost:1313/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</guid>
       <description></description>
     </item>
     <item>
       <title>JSS paper with Matteo Magnani and Luca Rossi: Analysis of Multiplex Social Networks with R</title>
-      <link>https://davidevega.eu/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</link>
+      <link>http://localhost:1313/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</guid>
+      <guid>http://localhost:1313/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk at Networks 2021: On a quest to identify online conversations</title>
-      <link>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</link>
+      <link>http://localhost:1313/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</guid>
+      <guid>http://localhost:1313/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</guid>
       <description></description>
     </item>
     <item>
       <title>Uppsala University grant for course &#34;Introduction to Computational Social Science&#34;</title>
-      <link>https://davidevega.eu/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</link>
+      <link>http://localhost:1313/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</guid>
+      <guid>http://localhost:1313/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</guid>
       <description></description>
     </item>
   </channel>

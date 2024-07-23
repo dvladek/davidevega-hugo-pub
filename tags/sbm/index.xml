@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sbm on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/sbm/</link>
-    <description>Recent content in sbm on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Sbm on Davide Vega D&#39;Aurelio</title>
+    <link>http://localhost:1313/tags/sbm/</link>
+    <description>Recent content in Sbm on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/sbm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sbm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stochastic blockmodeling methods for bipartite graphs</title>
-      <link>https://davidevega.eu/education/projects/2021_sbm/</link>
+      <link>http://localhost:1313/education/projects/2021_sbm/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2021_sbm/</guid>
+      <guid>http://localhost:1313/education/projects/2021_sbm/</guid>
       <description>Stochastic block models (SBM) are generative models for network structures such as communities, sets of nodes characterized by being more densely connected with one another than with the rest of the network. One of the main advantages of generative models, such as SBM, is that they open the door to inference: if we are given a network G, we can use techniques from statistical inference to estimate the values of θ that best explain or reproduce the observed pattern of connectivity.</description>
     </item>
   </channel>

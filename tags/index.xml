@@ -2,178 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data engineering</title>
-      <link>https://davidevega.eu/tags/data-engineering/</link>
+      <title>Data Engineering</title>
+      <link>http://localhost:1313/tags/data-engineering/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/data-engineering/</guid>
+      <guid>http://localhost:1313/tags/data-engineering/</guid>
       <description></description>
     </item>
     <item>
-      <title>ml</title>
-      <link>https://davidevega.eu/tags/ml/</link>
+      <title>Ml</title>
+      <link>http://localhost:1313/tags/ml/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/ml/</guid>
+      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
     </item>
     <item>
-      <title>nlp</title>
-      <link>https://davidevega.eu/tags/nlp/</link>
+      <title>Nlp</title>
+      <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/nlp/</guid>
+      <guid>http://localhost:1313/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
-      <title>architecture</title>
-      <link>https://davidevega.eu/tags/architecture/</link>
+      <title>Architecture</title>
+      <link>http://localhost:1313/tags/architecture/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/architecture/</guid>
+      <guid>http://localhost:1313/tags/architecture/</guid>
       <description></description>
     </item>
     <item>
-      <title>software engineering</title>
-      <link>https://davidevega.eu/tags/software-engineering/</link>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/tags/software-engineering/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/software-engineering/</guid>
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
       <description></description>
     </item>
     <item>
-      <title>chess</title>
-      <link>https://davidevega.eu/tags/chess/</link>
+      <title>Chess</title>
+      <link>http://localhost:1313/tags/chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/chess/</guid>
+      <guid>http://localhost:1313/tags/chess/</guid>
       <description></description>
     </item>
     <item>
-      <title>network</title>
-      <link>https://davidevega.eu/tags/network/</link>
+      <title>Network</title>
+      <link>http://localhost:1313/tags/network/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/network/</guid>
+      <guid>http://localhost:1313/tags/network/</guid>
       <description></description>
     </item>
     <item>
-      <title>news</title>
-      <link>https://davidevega.eu/tags/news/</link>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/news/</guid>
+      <guid>http://localhost:1313/tags/news/</guid>
       <description></description>
     </item>
     <item>
-      <title>sna</title>
-      <link>https://davidevega.eu/tags/sna/</link>
+      <title>Sna</title>
+      <link>http://localhost:1313/tags/sna/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/sna/</guid>
+      <guid>http://localhost:1313/tags/sna/</guid>
       <description></description>
     </item>
     <item>
-      <title>osm</title>
-      <link>https://davidevega.eu/tags/osm/</link>
+      <title>Osm</title>
+      <link>http://localhost:1313/tags/osm/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/osm/</guid>
+      <guid>http://localhost:1313/tags/osm/</guid>
       <description></description>
     </item>
     <item>
-      <title>framing</title>
-      <link>https://davidevega.eu/tags/framing/</link>
+      <title>Framing</title>
+      <link>http://localhost:1313/tags/framing/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/framing/</guid>
+      <guid>http://localhost:1313/tags/framing/</guid>
       <description></description>
     </item>
     <item>
-      <title>privacy</title>
-      <link>https://davidevega.eu/tags/privacy/</link>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
-      <title>visualization</title>
-      <link>https://davidevega.eu/tags/visualization/</link>
+      <title>Visualization</title>
+      <link>http://localhost:1313/tags/visualization/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/visualization/</guid>
+      <guid>http://localhost:1313/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
-      <title>productivity</title>
-      <link>https://davidevega.eu/tags/productivity/</link>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/productivity/</guid>
+      <guid>http://localhost:1313/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
-      <title>css</title>
-      <link>https://davidevega.eu/tags/css/</link>
+      <title>Css</title>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
-      <title>btt</title>
-      <link>https://davidevega.eu/tags/btt/</link>
+      <title>Btt</title>
+      <link>http://localhost:1313/tags/btt/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/btt/</guid>
+      <guid>http://localhost:1313/tags/btt/</guid>
       <description></description>
     </item>
     <item>
-      <title>sbm</title>
-      <link>https://davidevega.eu/tags/sbm/</link>
+      <title>Sbm</title>
+      <link>http://localhost:1313/tags/sbm/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/sbm/</guid>
+      <guid>http://localhost:1313/tags/sbm/</guid>
       <description></description>
     </item>
     <item>
-      <title>gdpr</title>
-      <link>https://davidevega.eu/tags/gdpr/</link>
+      <title>Gdpr</title>
+      <link>http://localhost:1313/tags/gdpr/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/gdpr/</guid>
+      <guid>http://localhost:1313/tags/gdpr/</guid>
       <description></description>
     </item>
     <item>
-      <title>bipartite</title>
-      <link>https://davidevega.eu/tags/bipartite/</link>
+      <title>Bipartite</title>
+      <link>http://localhost:1313/tags/bipartite/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/bipartite/</guid>
+      <guid>http://localhost:1313/tags/bipartite/</guid>
       <description></description>
     </item>
     <item>
-      <title>ttt</title>
-      <link>https://davidevega.eu/tags/ttt/</link>
+      <title>Ttt</title>
+      <link>http://localhost:1313/tags/ttt/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/ttt/</guid>
+      <guid>http://localhost:1313/tags/ttt/</guid>
       <description></description>
     </item>
     <item>
-      <title>cyberchallenge</title>
-      <link>https://davidevega.eu/tags/cyberchallenge/</link>
+      <title>Cyberchallenge</title>
+      <link>http://localhost:1313/tags/cyberchallenge/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/cyberchallenge/</guid>
+      <guid>http://localhost:1313/tags/cyberchallenge/</guid>
       <description></description>
     </item>
     <item>
-      <title>exploratory</title>
-      <link>https://davidevega.eu/tags/exploratory/</link>
+      <title>Exploratory</title>
+      <link>http://localhost:1313/tags/exploratory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/exploratory/</guid>
+      <guid>http://localhost:1313/tags/exploratory/</guid>
       <description></description>
     </item>
     <item>
-      <title>misinformation</title>
-      <link>https://davidevega.eu/tags/misinformation/</link>
+      <title>Misinformation</title>
+      <link>http://localhost:1313/tags/misinformation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/misinformation/</guid>
+      <guid>http://localhost:1313/tags/misinformation/</guid>
       <description></description>
     </item>
     <item>
-      <title>sustainability</title>
-      <link>https://davidevega.eu/tags/sustainability/</link>
+      <title>Sustainability</title>
+      <link>http://localhost:1313/tags/sustainability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/tags/sustainability/</guid>
+      <guid>http://localhost:1313/tags/sustainability/</guid>
       <description></description>
     </item>
   </channel>

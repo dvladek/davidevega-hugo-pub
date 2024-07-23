@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>productivity on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/productivity/</link>
-    <description>Recent content in productivity on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Productivity on Davide Vega D&#39;Aurelio</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listening in on Productivity: Applying the Four Key Metrics to measure productivity in a software development company</title>
-      <link>https://davidevega.eu/education/projects/2021_productivity/</link>
+      <link>http://localhost:1313/education/projects/2021_productivity/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2021_productivity/</guid>
+      <guid>http://localhost:1313/education/projects/2021_productivity/</guid>
       <description>Software development is an area in which companies not only need to keep up with the latest technology, but they additionally need to continuously increase their productivity to stay competitive in the industry. One company currently facing these challenges is Storytel - one of the strongest players on the Swedish audiobook market - with about a fourth of all employees involved with software development, and a rapidly growing workforce.&#xA;With the purpose of understanding how the Storytel Tech Department is performing, this thesis maps Storytel’s productivity defined through the Four Key Metrics - Deployment Frequency, Delivery Lead Time, Mean Time To Restore and Change Fail Rate.</description>
     </item>
   </channel>

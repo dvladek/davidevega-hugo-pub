@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>misinformation on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/misinformation/</link>
-    <description>Recent content in misinformation on Davide Vega D&#39;Aurelio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Misinformation on Davide Vega D&#39;Aurelio</title>
+    <link>http://localhost:1313/tags/misinformation/</link>
+    <description>Recent content in Misinformation on Davide Vega D&#39;Aurelio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://davidevega.eu/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
-      <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
+      <link>http://localhost:1313/education/proposals/trust_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/proposals/trust_manipulation/</guid>
+      <guid>http://localhost:1313/education/proposals/trust_manipulation/</guid>
       <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.&#xA;The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
     </item>
   </channel>
