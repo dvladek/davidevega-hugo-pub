@@ -2,391 +2,393 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidevega.eu/education/courses/net/</loc>
+    <loc>http://localhost:1313/education/courses/net/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</loc>
+    <loc>http://localhost:1313/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</loc>
     <lastmod>2023-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</loc>
+    <loc>http://localhost:1313/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/research/conversations/</loc>
+    <loc>http://localhost:1313/research/conversations/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2024working_aita/</loc>
+    <loc>http://localhost:1313/pubs/vega2024working_aita/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/proposals/trust_manipulation/</loc>
+    <loc>http://localhost:1313/education/proposals/trust_manipulation/</loc>
   </url><url>
-    <loc>https://davidevega.eu/education/courses/css/</loc>
+    <loc>http://localhost:1313/education/courses/css/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2021working_news/</loc>
+    <loc>http://localhost:1313/pubs/vega2021working_news/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2023working_controversies/</loc>
+    <loc>http://localhost:1313/pubs/vega2023working_controversies/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/courses/sepm/</loc>
+    <loc>http://localhost:1313/education/courses/sepm/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/research/nordis/</loc>
+    <loc>http://localhost:1313/research/nordis/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2023working_se/</loc>
+    <loc>http://localhost:1313/pubs/vega2023working_se/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/research/virt-eu/</loc>
+    <loc>http://localhost:1313/education/proposals/gender_tv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/virt-eu/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/proposals/chess/</loc>
+    <loc>http://localhost:1313/education/proposals/chess/</loc>
   </url><url>
-    <loc>https://davidevega.eu/education/courses/asd/</loc>
+    <loc>http://localhost:1313/education/courses/asd/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/courses/mp/</loc>
+    <loc>http://localhost:1313/education/courses/mp/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2024/05/14/new-phd-position-available-in-social-cybersecurity-for-detecting-ai-based-social-information-threads/</loc>
+    <loc>http://localhost:1313/news/2024/05/14/new-phd-position-available-in-social-cybersecurity-for-detecting-ai-based-social-information-threads/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2024/04/23/co-organizing-the-1st-swedish-conference-on-computational-social-science-in-uppsala/</loc>
+    <loc>http://localhost:1313/news/2024/04/23/co-organizing-the-1st-swedish-conference-on-computational-social-science-in-uppsala/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/toolkit/</loc>
+    <loc>http://localhost:1313/toolkit/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/toolkit/ttnet/</loc>
+    <loc>http://localhost:1313/toolkit/ttnet/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</loc>
+    <loc>http://localhost:1313/news/2024/01/18/workshop-at-the-the-centre-for-digital-humanities-uppsala-cdhu/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</loc>
+    <loc>http://localhost:1313/news/2023/12/01/our-sunbelt-2024-organized-session-network-clustering-and-validation-methods-and-applications-has-been-approved/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/yantseva2023altright_css/</loc>
+    <loc>http://localhost:1313/pubs/yantseva2023altright_css/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/</loc>
+    <loc>http://localhost:1313/pubs/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/goglia2023aita_poster/</loc>
+    <loc>http://localhost:1313/pubs/goglia2023aita_poster/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</loc>
+    <loc>http://localhost:1313/news/2023/11/29/poster-at-cna-user-behavior-influences-structural-properties-of-growing-networks/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/</loc>
+    <loc>http://localhost:1313/education/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2023temporal_chp/</loc>
+    <loc>http://localhost:1313/pubs/vega2023temporal_chp/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2023/10/13/phd-course-in-network-science-funding-renewed/</loc>
+    <loc>http://localhost:1313/news/2023/10/13/phd-course-in-network-science-funding-renewed/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/data-engineering/</loc>
+    <loc>http://localhost:1313/tags/data-engineering/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/ml/</loc>
+    <loc>http://localhost:1313/tags/ml/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2023_insurance-copy/</loc>
+    <loc>http://localhost:1313/education/projects/2023_insurance-copy/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2023ic2s2_ttn/</loc>
+    <loc>http://localhost:1313/pubs/vega2023ic2s2_ttn/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</loc>
+    <loc>http://localhost:1313/news/2023/07/17/talk-at-ic2s2-2023-the-dissemination-of-alternative-media-content-in-right-leaning-online-communities/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2023_insurance/</loc>
+    <loc>http://localhost:1313/education/projects/2023_insurance/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/nlp/</loc>
+    <loc>http://localhost:1313/tags/nlp/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/architecture/</loc>
+    <loc>http://localhost:1313/tags/architecture/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2023_architecture/</loc>
+    <loc>http://localhost:1313/education/projects/2023_architecture/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/software-engineering/</loc>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</loc>
+    <loc>http://localhost:1313/news/2023/05/03/keynote-talk-at-ars23-ninth-international-workshop-on-social-network-analysis/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/chess/</loc>
+    <loc>http://localhost:1313/tags/chess/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2023_chess/</loc>
+    <loc>http://localhost:1313/education/projects/2023_chess/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/network/</loc>
+    <loc>http://localhost:1313/tags/network/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2023_platform/</loc>
+    <loc>http://localhost:1313/education/projects/2023_platform/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/sna/</loc>
+    <loc>http://localhost:1313/tags/sna/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/galluccio022cna_txt/</loc>
+    <loc>http://localhost:1313/pubs/galluccio022cna_txt/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/osm/</loc>
+    <loc>http://localhost:1313/tags/osm/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2022_nato/</loc>
+    <loc>http://localhost:1313/education/projects/2022_nato/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/framing/</loc>
+    <loc>http://localhost:1313/tags/framing/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2022_invasion/</loc>
+    <loc>http://localhost:1313/education/projects/2022_invasion/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2022_newspapers/</loc>
+    <loc>http://localhost:1313/education/projects/2022_newspapers/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2022_platform/</loc>
+    <loc>http://localhost:1313/education/projects/2022_platform/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/visualization/</loc>
+    <loc>http://localhost:1313/tags/visualization/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</loc>
+    <loc>http://localhost:1313/news/2022/04/05/sophie-germain-program-grant-computational-methods-and-news-framing/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</loc>
+    <loc>http://localhost:1313/news/2021/12/02/chydenius-medal-awarded-to-the-nordis-project-for-defending-democracy/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</loc>
+    <loc>http://localhost:1313/news/2021/09/28/new-postdoc-position-available-in-computational-social-science-/-social-data-science-for-the-analysis-of-online-disinformation/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</loc>
+    <loc>http://localhost:1313/news/2021/09/15/we-lunch-the-nordis-project-nordic-observatory-for-digital-media-and-information-disorder/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/toolkit/hugo_uppsala/</loc>
+    <loc>http://localhost:1313/toolkit/hugo_uppsala/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/toolkit/multinet/</loc>
+    <loc>http://localhost:1313/toolkit/multinet/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2021networks_ttt/</loc>
+    <loc>http://localhost:1313/pubs/vega2021networks_ttt/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/magnani2021mpx_lib/</loc>
+    <loc>http://localhost:1313/pubs/magnani2021mpx_lib/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</loc>
+    <loc>http://localhost:1313/news/2021/06/02/jss-paper-with-matteo-magnani-and-luca-rossi-analysis-of-multiplex-social-networks-with-r/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</loc>
+    <loc>http://localhost:1313/news/2021/05/21/talk-at-networks-2021-on-a-quest-to-identify-online-conversations/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/funda2020iot_sna/</loc>
+    <loc>http://localhost:1313/pubs/funda2020iot_sna/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2021_productivity/</loc>
+    <loc>http://localhost:1313/education/projects/2021_productivity/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/productivity/</loc>
+    <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2021_newspapers/</loc>
+    <loc>http://localhost:1313/education/projects/2021_newspapers/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/btt/</loc>
+    <loc>http://localhost:1313/tags/btt/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/sbm/</loc>
+    <loc>http://localhost:1313/tags/sbm/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2021_sbm/</loc>
+    <loc>http://localhost:1313/education/projects/2021_sbm/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/kostios2019gdpr_nhb/</loc>
+    <loc>http://localhost:1313/pubs/kostios2019gdpr_nhb/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</loc>
+    <loc>http://localhost:1313/news/2020/06/22/uppsala-university-grant-for-course-introduction-to-computational-social-science/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/interdonato2020mpx_spl/</loc>
+    <loc>http://localhost:1313/pubs/interdonato2020mpx_spl/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2019_gdpr/</loc>
+    <loc>http://localhost:1313/education/projects/2019_gdpr/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/gdpr/</loc>
+    <loc>http://localhost:1313/tags/gdpr/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2019_text_features_swedish/</loc>
+    <loc>http://localhost:1313/education/projects/2019_text_features_swedish/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2019temporal_chp/</loc>
+    <loc>http://localhost:1313/pubs/vega2019temporal_chp/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/luca2019aoir_meetup/</loc>
+    <loc>http://localhost:1313/pubs/luca2019aoir_meetup/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/bipartite/</loc>
+    <loc>http://localhost:1313/tags/bipartite/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2018_pattern_bbt/</loc>
+    <loc>http://localhost:1313/education/projects/2018_pattern_bbt/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/ttt/</loc>
+    <loc>http://localhost:1313/tags/ttt/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2019ic2s2_ttn/</loc>
+    <loc>http://localhost:1313/pubs/vega2019ic2s2_ttn/</loc>
     <lastmod>2019-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2018_cyberchallenge/</loc>
+    <loc>http://localhost:1313/education/projects/2018_cyberchallenge/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/tags/cyberchallenge/</loc>
+    <loc>http://localhost:1313/tags/cyberchallenge/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/education/projects/2018_analysis_ttt/</loc>
+    <loc>http://localhost:1313/education/projects/2018_analysis_ttt/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/obaida2018asonam_ttt/</loc>
+    <loc>http://localhost:1313/pubs/obaida2018asonam_ttt/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2018ans_ttt/</loc>
+    <loc>http://localhost:1313/pubs/vega2018ans_ttt/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2018sunbelt_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2018sunbelt_sna/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2017complex_txt/</loc>
+    <loc>http://localhost:1313/pubs/vega2017complex_txt/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/ashcroft2016silkroad_poster/</loc>
+    <loc>http://localhost:1313/pubs/ashcroft2016silkroad_poster/</loc>
     <lastmod>2016-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/selimi2016europar_top/</loc>
+    <loc>http://localhost:1313/pubs/selimi2016europar_top/</loc>
     <lastmod>2016-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2016snam_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2016snam_sna/</loc>
     <lastmod>2016-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2016cscwd_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2016cscwd_sna/</loc>
     <lastmod>2016-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015phd_thesis/</loc>
+    <loc>http://localhost:1313/pubs/vega2015phd_thesis/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/millan2015comnet_lq/</loc>
+    <loc>http://localhost:1313/pubs/millan2015comnet_lq/</loc>
     <lastmod>2015-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015comnet_top/</loc>
+    <loc>http://localhost:1313/pubs/vega2015comnet_top/</loc>
     <lastmod>2015-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015asonam_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2015asonam_sna/</loc>
     <lastmod>2015-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015sunbelt_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2015sunbelt_sna/</loc>
     <lastmod>2015-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015jcsd_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2015jcsd_sna/</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2015cscwd_rs/</loc>
+    <loc>http://localhost:1313/pubs/vega2015cscwd_rs/</loc>
     <lastmod>2015-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2014gecon_sna/</loc>
+    <loc>http://localhost:1313/pubs/vega2014gecon_sna/</loc>
     <lastmod>2014-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2014jucs_rs/</loc>
+    <loc>http://localhost:1313/pubs/vega2014jucs_rs/</loc>
     <lastmod>2014-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2014wimob_all/</loc>
+    <loc>http://localhost:1313/pubs/vega2014wimob_all/</loc>
     <lastmod>2014-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/millan2014cnbub_lq/</loc>
+    <loc>http://localhost:1313/pubs/millan2014cnbub_lq/</loc>
     <lastmod>2014-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/menan2014mascots_demo/</loc>
+    <loc>http://localhost:1313/pubs/menan2014mascots_demo/</loc>
     <lastmod>2014-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2014jcsd_lq/</loc>
+    <loc>http://localhost:1313/pubs/vega2014jcsd_lq/</loc>
     <lastmod>2014-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/escrich2013p2p_poster/</loc>
+    <loc>http://localhost:1313/pubs/escrich2013p2p_poster/</loc>
     <lastmod>2013-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2013cscwd_rs/</loc>
+    <loc>http://localhost:1313/pubs/vega2013cscwd_rs/</loc>
     <lastmod>2013-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2013jcsd_rs/</loc>
+    <loc>http://localhost:1313/pubs/vega2013jcsd_rs/</loc>
     <lastmod>2013-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/aymerich2013wowmon_demo/</loc>
+    <loc>http://localhost:1313/pubs/aymerich2013wowmon_demo/</loc>
     <lastmod>2013-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2013icae_top/</loc>
+    <loc>http://localhost:1313/pubs/vega2013icae_top/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2012cnbub_top/</loc>
+    <loc>http://localhost:1313/pubs/vega2012cnbub_top/</loc>
     <lastmod>2012-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2011iccsa_top/</loc>
+    <loc>http://localhost:1313/pubs/vega2011iccsa_top/</loc>
     <lastmod>2011-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2011cscwd_top/</loc>
+    <loc>http://localhost:1313/pubs/vega2011cscwd_top/</loc>
     <lastmod>2011-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2011jcsd_simluator/</loc>
+    <loc>http://localhost:1313/pubs/vega2011jcsd_simluator/</loc>
     <lastmod>2011-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2010msc_thesis/</loc>
+    <loc>http://localhost:1313/pubs/vega2010msc_thesis/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2008bsc_thesis/</loc>
+    <loc>http://localhost:1313/pubs/vega2008bsc_thesis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidevega.eu/pubs/funda2019working_iot/</loc>
+    <loc>http://localhost:1313/pubs/funda2019working_iot/</loc>
   </url><url>
-    <loc>https://davidevega.eu/pubs/funda2020working_meetup/</loc>
+    <loc>http://localhost:1313/pubs/funda2020working_meetup/</loc>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2019working_bipartite/</loc>
+    <loc>http://localhost:1313/pubs/vega2019working_bipartite/</loc>
   </url><url>
-    <loc>https://davidevega.eu/pubs/vega2019working_education/</loc>
+    <loc>http://localhost:1313/pubs/vega2019working_education/</loc>
   </url><url>
-    <loc>https://davidevega.eu/tags/exploratory/</loc>
+    <loc>http://localhost:1313/tags/exploratory/</loc>
   </url><url>
-    <loc>https://davidevega.eu/tags/misinformation/</loc>
+    <loc>http://localhost:1313/tags/misinformation/</loc>
   </url><url>
-    <loc>https://davidevega.eu/tags/sustainability/</loc>
+    <loc>http://localhost:1313/tags/sustainability/</loc>
   </url>
 </urlset>

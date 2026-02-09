@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gdpr on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/gdpr/</link>
+    <link>http://localhost:1313/tags/gdpr/</link>
     <description>Recent content in Gdpr on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A system for GDPR-compliant collection of social media data: from legal to software requirements</title>
-      <link>https://davidevega.eu/education/projects/2019_gdpr/</link>
+      <link>http://localhost:1313/education/projects/2019_gdpr/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2019_gdpr/</guid>
-      <description>As of 2018 there is a new regulation regarding data protection in the European union. The legislation, often refereed to as the General Data Protection Regulation (GDPR), has led to increased demands on organizations that processes personal data. This thesis has investigated the legal consequences of social media data collection with a certain focus on collection of tweets. The legal findings was then translated into possible enhancements of a tweet collecting software.</description>
+      <guid>http://localhost:1313/education/projects/2019_gdpr/</guid>
+      <description>&lt;p&gt;As of 2018 there is a new regulation regarding data protection in the European union. The legislation, often refereed to as the General Data Protection Regulation (GDPR), has led to increased demands on organizations that processes personal data. This thesis has investigated the legal consequences of social media data collection with a certain focus on collection of tweets. The legal findings was then translated into possible enhancements of a tweet collecting software. The tweet collecting software was extended with a method for pseudonymization, however it turned out that our implementation had some serious performance issues. There where also work done on an implementation of a method providing automatic tweet posting with the purpose to repeatedly inform followers of a hashtag that a collection of tweets regarding that hashtag is taking place. Lastly, some findings about possible future enhancements that can be done on the software was laid out.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

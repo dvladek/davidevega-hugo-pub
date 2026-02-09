@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/news/</link>
+    <link>http://localhost:1313/tags/news/</link>
     <description>Recent content in News on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trust and media manipulation I</title>
-      <link>https://davidevega.eu/education/proposals/trust_manipulation/</link>
+      <link>http://localhost:1313/education/proposals/trust_manipulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/proposals/trust_manipulation/</guid>
-      <description>Social media are a key source of information for society, but it has been proven that can be also an effective source of misinformation if the readers are not critical or knowledgable enough. The goal of this project is to make a randomized controlled experiment to test if and how much sustainability experts can be manipulated.&#xA;The first part of the project consists on exploring what type of platforms we can use to run experiments like the one described below.</description>
+      <guid>http://localhost:1313/education/proposals/trust_manipulation/</guid>
+      <description>&lt;p&gt;Social media are a key source of information for society, but it has been proven&#xA;that can be also an effective source of misinformation if the readers are not&#xA;critical or knowledgable enough. The goal of this project is to make a&#xA;randomized controlled experiment to test if and how much sustainability experts&#xA;can be manipulated.&lt;/p&gt;&#xA;&lt;p&gt;The first part of the project consists on exploring what type of platforms we&#xA;can use to run experiments like the one described below. Alternatively, if we&#xA;cannot find a viable platform, you will build a small web prototype.&lt;/p&gt;</description>
     </item>
     <item>
       <title>International mobility patterns in competitive sports events</title>
-      <link>https://davidevega.eu/education/projects/2023_chess/</link>
+      <link>http://localhost:1313/education/projects/2023_chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
-      <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
+      <guid>http://localhost:1313/education/projects/2023_chess/</guid>
+      <description>&lt;p&gt;Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tracking the Conversation around NATO in the Nordic States Using Machine Learning</title>
-      <link>https://davidevega.eu/education/projects/2022_nato/</link>
+      <link>http://localhost:1313/education/projects/2022_nato/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2022_nato/</guid>
-      <description>Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset.</description>
+      <guid>http://localhost:1313/education/projects/2022_nato/</guid>
+      <description>&lt;p&gt;Online communication is makes up a large part of the public discourse around current events, and increasingly has been the target for disinformation campaigns. Clearly, there is a need for some language-agnostic tool to map how the discourse shifts and evolves. As such, the goal of this analysis was to create a tool to collate posts from Facebook, Instagram, Reddit and Twitter into one dataset for comparison and analysis, then to generate weekly topics based off posts containing the term “NATO” from this dataset. In this way BERTopic was used in an attempt to divide posts relating to “NATO” into these topics and then map them week-by-week, creating connections between weeks based on the overall topic. This period ranged from the buildup of the Ukrainian/Russian conflict (1 November) until 2 June. The analysis covers four Nordic languages; Danish, Finnish, Norwegian and Swedish from the aforementioned platforms. The Swedish model proved unfruitful due to the stochastic nature of the algorithm, however for the Danish, Finnish and Norwegian datasets, broad overall topics were generated as well as individual weekly topics for each of the broader topics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring How Swedish News are Framed Online</title>
-      <link>https://davidevega.eu/education/projects/2022_newspapers/</link>
+      <link>http://localhost:1313/education/projects/2022_newspapers/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2022_newspapers/</guid>
-      <description>The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others.</description>
+      <guid>http://localhost:1313/education/projects/2022_newspapers/</guid>
+      <description>&lt;p&gt;The purpose of the project was to conduct a comparative study of how Swedish media - mainly online newspapers - might influence the public agenda by, knowingly or unknowingly, framing their news articles in a particular way. The project, therefore, aims at analyzing the language characteristics (e.g., topics, sentiments, polarization of ideas) of the news articles already collected from some of the most visited online newspapers and compare if there is a clear difference on how they choose to portrait some news, rather than others. This project was exploratory, a first step towards enabling data-driven research, and open, enabling students to pursue their own questions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>
-      <link>https://davidevega.eu/education/projects/2021_newspapers/</link>
+      <link>http://localhost:1313/education/projects/2021_newspapers/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2021_newspapers/</guid>
-      <description>Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method.</description>
+      <guid>http://localhost:1313/education/projects/2021_newspapers/</guid>
+      <description>&lt;p&gt;Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method. However, a computer needs to be trained to understand the topics of the articles to be able to detect the topics and make the comparison.The two goals of this project is to find and identify topics within articles extracted from Swedish newspapers as well as preforming sentiment analysis on the most similar topic pairs.This project presents a Python 3 implementation of extracting textual data from Swedish newspapers, identify and assign topics to those articles, as well as preform sentiment analysis on articles based on their topics and day of publication. To extract the text from each article web scraping was used. The topic detection was performed with the help of non-negativefactorisation matrices. To determine each article polarity andemotional state TextBlob was utilised. Both goals were accomplished. The method used to extract textualdata was successful and topics for each article was successfullyidentified. The topic detection and sentiment analysis proved to be mostly correct while manually inspecting the most similar article pairs between the newspapers. The results was presented with dumbbell plots for the most similar article pairs. These plots shows each pairs polarity and subjectivity score and was therefore used to manually analyse the actual similarity between these articles as well as to their sentimentic structure. However, the results are deemed to be too unreliable to draw any significant conclusion in the sentiment difference and likeliness between the newspapers. This is because of the absence of a proper implementation of Swedish part-to-speech tags and lemmatization, which was noticed too late into the development process to be able to correct. These changes are however discussed and reflected upon in the purpose to gain insight in how the implemented solution could have been improved.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

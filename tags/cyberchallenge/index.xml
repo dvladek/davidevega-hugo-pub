@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyberchallenge on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/cyberchallenge/</link>
+    <link>http://localhost:1313/tags/cyberchallenge/</link>
     <description>Recent content in Cyberchallenge on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/cyberchallenge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cyberchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Challenge Competition 2019</title>
-      <link>https://davidevega.eu/education/projects/2018_cyberchallenge/</link>
+      <link>http://localhost:1313/education/projects/2018_cyberchallenge/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2018_cyberchallenge/</guid>
-      <description>Analysis of a simulated national thread scenario and creation/defense of a policy brief document</description>
+      <guid>http://localhost:1313/education/projects/2018_cyberchallenge/</guid>
+      <description>&lt;p&gt;Analysis of a simulated national thread scenario and creation/defense of a policy brief document&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

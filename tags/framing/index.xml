@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Framing on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/framing/</link>
+    <link>http://localhost:1313/tags/framing/</link>
     <description>Recent content in Framing on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/framing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/framing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Portrayal of the 2022 Russian Invasion of Ukraine on Social Media</title>
-      <link>https://davidevega.eu/education/projects/2022_invasion/</link>
+      <link>http://localhost:1313/education/projects/2022_invasion/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2022_invasion/</guid>
-      <description>Everyday communication consists of a complex of information, objective, and subjective. The meaning one tries to convey may hide certain attitudes, opinions, or even an attempt to influence the other, whether it is done knowingly or not. This can be achieved by analysing the content, such as its structure, grammar, and vocabulary. Social media as a form of communication is no exception to this fact. Discourse can be analysed by taking into account the underlying discursive production and interpret it in relation to this contextual understanding.</description>
+      <guid>http://localhost:1313/education/projects/2022_invasion/</guid>
+      <description>&lt;p&gt;Everyday communication consists of a complex of information, objective, and subjective. The meaning one tries to convey may hide certain attitudes, opinions, or even an attempt to influence the other, whether it is done knowingly or not. This can be achieved by analysing the content, such as its structure, grammar, and vocabulary. Social media as a form of communication is no exception to this fact. Discourse can be analysed by taking into account the underlying discursive production and interpret it in relation to this contextual understanding. Moreover, a vast amount of social media information exists online that could be analysed with that approach. For this reason, a tool was created to save online posts from the platforms of Facebook, Instagram, Reddit, and Twitter into a large dataset, related to the 2022 Russian Invasion of Ukraine. Then, using word2vec and tools on Python, the attitudes towards Russia, Ukraine, the invasion itself, and sanctions are analysed using Swedish, and to a lesser extent, Danish, Norwegian, and Finnish, with posts made from November of 2021 to March of 2022.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

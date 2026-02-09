@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ttt on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/ttt/</link>
+    <link>http://localhost:1313/tags/ttt/</link>
     <description>Recent content in Ttt on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/ttt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ttt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pattern Detection in Bipartite Temporal Network</title>
-      <link>https://davidevega.eu/education/projects/2018_pattern_bbt/</link>
+      <link>http://localhost:1313/education/projects/2018_pattern_bbt/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2018_pattern_bbt/</guid>
-      <description>Pattern detection in social networks has been of great interest recently because it helps to reveal insights about how people communicate. In graph mining, this is referred to as a frequent sub-graphs mining problem and it has many variations regarding the structure of the network - i.e. how much information the graph holds. As a part of the evolution of the problem, additional information such as data dimensions or more advanced network structure are incorporated to the input to find more interesting hidden patterns.</description>
+      <guid>http://localhost:1313/education/projects/2018_pattern_bbt/</guid>
+      <description>&lt;p&gt;Pattern detection in social networks has been of great interest recently because it helps to reveal insights about how people communicate. In graph mining, this is referred to as a frequent sub-graphs mining problem and it has many variations regarding the structure of the network - i.e. how much information the graph holds. As a part of the evolution of the problem, additional information such as data dimensions or more advanced network structure are incorporated to the input to find more interesting hidden patterns. This thesis concerns finding patterns in Twitter data modeled as a bipartite network with an additional temporal dimension. After defining three topology-based types of pattern mathematically, three pattern detection methods are developed, implemented and tested on real-world data collected from Twitter. The results reveal the most popular patterns of each type on Twitter data, a decaying tendency in the replying time as the conversation develops and other interesting observations. They also show that using the difference between two consecutive messages in a pattern (time leap) could be a good alternative time constraint for a time window in pattern detection. Despite being run on a small number of test cases, the results successfully demonstrate the potential of studying chain-like patterns separated from the dominant star-like ones in social networks like Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Measure development and social media analysis using temporal text networks</title>
-      <link>https://davidevega.eu/education/projects/2018_analysis_ttt/</link>
+      <link>http://localhost:1313/education/projects/2018_analysis_ttt/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2018_analysis_ttt/</guid>
-      <description>The widespread social media usage generates an immense amount of data. Data which is highly beneficial to several domains whether monetary or research based. Various models exist to extract this data however analysis tend to be restrictive. The temporal text network model is a dynamic network model built upon the foundation of temporal networks. It provides text as a variable and considers messages passed between users while maintaining the time of transmission, making it suitable for social media analysis.</description>
+      <guid>http://localhost:1313/education/projects/2018_analysis_ttt/</guid>
+      <description>&lt;p&gt;The widespread social media usage generates an immense amount of data. Data which is highly beneficial to several domains whether monetary or research based. Various models exist to extract this data however analysis tend to be restrictive. The temporal text network model is a dynamic network model built upon the foundation of temporal networks. It provides text as a variable and considers messages passed between users while maintaining the time of transmission, making it suitable for social media analysis. No measures exist to perform this analysis, the objective of this thesis was therefore to develop measures to be used in the mapping of communicative behaviour on two Twitter datasets. The created measures conclude that communication is similar on Twitter no matter the domain observed. When further reducing the scope of a political dataset, information regarding the social media presence between parties and the localization of key questions was found.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

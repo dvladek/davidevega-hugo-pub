@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/network/</link>
+    <link>http://localhost:1313/tags/network/</link>
     <description>Recent content in Network on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International mobility patterns in competitive sports events</title>
-      <link>https://davidevega.eu/education/projects/2023_chess/</link>
+      <link>http://localhost:1313/education/projects/2023_chess/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2023_chess/</guid>
-      <description>Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.</description>
+      <guid>http://localhost:1313/education/projects/2023_chess/</guid>
+      <description>&lt;p&gt;Competitive chess is a sports category where players can freely participate in most of the competitions around the world without restriction - as opposed of other individual sports, where you must qualify in order to participate. In this project we were interested on exploring the mobility patterns of the players (e.g., how many play only national-level tournaments, what are the most visited countries/cities) across time and compare those with other competition factors (e.g., their own level, how strong is the national country of destination) in order evaluate how these inequalities can affect the ranking.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

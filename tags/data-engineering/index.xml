@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Engineering on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/tags/data-engineering/</link>
+    <link>http://localhost:1313/tags/data-engineering/</link>
     <description>Recent content in Data Engineering on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Allure of Automated Machine Learning Services: How SMEs and non-expert users can benefit from AutoML frameworks</title>
-      <link>https://davidevega.eu/education/projects/2023_insurance-copy/</link>
+      <link>http://localhost:1313/education/projects/2023_insurance-copy/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2023_insurance-copy/</guid>
-      <description>This study investigates how small and medium sized enterprises (SMEs) and other resource-lacking organisations can utilise automated machine learning (AutoML) to lessen the development hurdles associated with machine learning model development. This is achieved by comparing the performance, cost of usage, as well as usability and documentation for machine learning models developed through two AutoML frameworks: Vertex AI on Google Cloud™ and the open-source library AutoGluon, developed by Amazon Web Services.</description>
+      <guid>http://localhost:1313/education/projects/2023_insurance-copy/</guid>
+      <description>&lt;p&gt;This study investigates how small and medium sized enterprises (SMEs) and other resource-lacking organisations can utilise automated machine learning (AutoML) to lessen the development hurdles associated with machine learning model development. This is achieved by comparing the performance, cost of usage, as well as usability and documentation for machine learning models developed through two AutoML frameworks: Vertex AI on Google Cloud™ and the open-source library AutoGluon, developed by Amazon Web Services. The study also presents a roadmap and a time plan that can be utilised by resource-lacking enterprises to guide the development of machine learning solutions implemented through AutoML frameworks. The results of the study show that AutoML frameworks are easy to use and capable in generating machine learning models. However, performance is not guaranteed and machine learning projects utilising AutoML frameworks still necessitates substantial development effort. Furthermore, the limiting factor in model performance is often training data quality which AutoML frameworks do not address.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scalable Network Analysis Platform</title>
-      <link>https://davidevega.eu/education/projects/2023_platform/</link>
+      <link>http://localhost:1313/education/projects/2023_platform/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2023_platform/</guid>
-      <description>The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.&#xA;In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.</description>
+      <guid>http://localhost:1313/education/projects/2023_platform/</guid>
+      <description>&lt;p&gt;The design of scalable solutions to analyze large complex data from social media have been an ongoing research problem with practical applications. The purpose of the project was to deploy a scalable computing architecture able to process real-time social media data, allowing data scientist to analyze temporal and linguistics trends in real-time.&lt;/p&gt;&#xA;&lt;p&gt;In particular, during this project the students aimed at (a) understanding how and what type of data we want to process and (b) implementing and evaluate a scalable solution to process and visualize large-scale data streams as complex networks in real time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Scalable Platform for Data-Intensive Visualization</title>
-      <link>https://davidevega.eu/education/projects/2022_platform/</link>
+      <link>http://localhost:1313/education/projects/2022_platform/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/education/projects/2022_platform/</guid>
-      <description>A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.&#xA;To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.</description>
+      <guid>http://localhost:1313/education/projects/2022_platform/</guid>
+      <description>&lt;p&gt;A huge variety of social applications, such as Twitter and Instagram, have been developed over the last few decades. With the introduction of these online social networks, there has never been a better time to research human interaction on a worldwide scale. The goal of this project is to use a scalable and high-performance Twitter data visualization platform to investigate Twitter data on a given topic in real-time.&lt;/p&gt;&#xA;&lt;p&gt;To create a scalable Twitter data visualization platform, we write a basic version of the system using the Twitter Developer Platform&amp;rsquo;s real-time and non-real-time APIs, optimize the frontend and backend performance with various components, and devise a benchmarking testing scheme to see if the application meets the scalability and high-performance requirements.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
