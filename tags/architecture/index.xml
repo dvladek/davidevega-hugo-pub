@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Davide Vega D&#39;Aurelio</title>
-    <link>http://localhost:1313/tags/architecture/</link>
+    <link>https://davidevega.eu/tags/architecture/</link>
     <description>Recent content in Architecture on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidevega.eu/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evaluating the Ownership of Personal data in the Cloud by Optimizing the IT Architecture</title>
-      <link>http://localhost:1313/education/projects/2023_architecture/</link>
+      <link>https://davidevega.eu/education/projects/2023_architecture/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/projects/2023_architecture/</guid>
+      <guid>https://davidevega.eu/education/projects/2023_architecture/</guid>
       <description>&lt;p&gt;Cloud computing is an area that many companies use in order to stay in line with technological development. To keep these systems productive and easily managed, a reference architecture can be used as a framework and also as a manual on how to structure an organization to suit its specific needs and goals. The reference architecture can make it easier to divide responsibility as well as working tasks within an organization. One company facing the challenges that comes with cloud based systems is Vattenfall, one of the biggest energy companies in Europe. An organization like Vattenfall handles a great load of customer data which is to be controlled and protected in every way. In order to keep on making sure that these systems are efficient and secure, a reference architecture could be a helpful tool.&lt;/p&gt;</description>
     </item>
   </channel>

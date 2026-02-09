@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ml on Davide Vega D&#39;Aurelio</title>
-    <link>http://localhost:1313/tags/ml/</link>
+    <link>https://davidevega.eu/tags/ml/</link>
     <description>Recent content in Ml on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidevega.eu/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Allure of Automated Machine Learning Services: How SMEs and non-expert users can benefit from AutoML frameworks</title>
-      <link>http://localhost:1313/education/projects/2023_insurance-copy/</link>
+      <link>https://davidevega.eu/education/projects/2023_insurance-copy/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/projects/2023_insurance-copy/</guid>
+      <guid>https://davidevega.eu/education/projects/2023_insurance-copy/</guid>
       <description>&lt;p&gt;This study investigates how small and medium sized enterprises (SMEs) and other resource-lacking organisations can utilise automated machine learning (AutoML) to lessen the development hurdles associated with machine learning model development. This is achieved by comparing the performance, cost of usage, as well as usability and documentation for machine learning models developed through two AutoML frameworks: Vertex AI on Google Cloud™ and the open-source library AutoGluon, developed by Amazon Web Services. The study also presents a roadmap and a time plan that can be utilised by resource-lacking enterprises to guide the development of machine learning solutions implemented through AutoML frameworks. The results of the study show that AutoML frameworks are easy to use and capable in generating machine learning models. However, performance is not guaranteed and machine learning projects utilising AutoML frameworks still necessitates substantial development effort. Furthermore, the limiting factor in model performance is often training data quality which AutoML frameworks do not address.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Davide Vega D&#39;Aurelio</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://davidevega.eu/research/</link>
     <description>Recent content in Research on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidevega.eu/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling online communication</title>
-      <link>http://localhost:1313/research/conversations/</link>
+      <link>https://davidevega.eu/research/conversations/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/conversations/</guid>
+      <guid>https://davidevega.eu/research/conversations/</guid>
       <description>The goal of this project is to study methodologies and develop techniques and tools to monitor Social Network Sites and to identify relevant structural and communication patterns.</description>
     </item>
     <item>
       <title>Nordic Observatory for Digital Media and Information Disorder</title>
-      <link>http://localhost:1313/research/nordis/</link>
+      <link>https://davidevega.eu/research/nordis/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/nordis/</guid>
+      <guid>https://davidevega.eu/research/nordis/</guid>
       <description>&lt;p&gt;The Nordic Observatory for Digital Media and Information Disorder (NORDIS)&#xA;is a consortium of researchers and fact-checkers from Denmark, Norway, Sweden,&#xA;and Finland. We are one of the national hubs of The European Digital Media&#xA;Observatory (EDMO).&lt;/p&gt;&#xA;&lt;img src=&#34;../research/img/nordis/edmonordis.png&#34; class=&#34;img-fluid pb-4&#34; alt=&#34;EDMO NORDIS&#34; /&gt;&#xA;&lt;h3 id=&#34;project-abstract&#34;&gt;Project Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The aim is to develop theories, practices and models that can help counteract digital&#xA;information disorders – the spread of misinformation, disinformation and other forms&#xA;of harmful information online – and to help empower citizens in the Nordic welfare&#xA;states to resist such information by enabling them to enhance their media literacy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Values and Ethics in Innovation for Responsible Technology in Europe</title>
-      <link>http://localhost:1313/research/virt-eu/</link>
+      <link>https://davidevega.eu/research/virt-eu/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/virt-eu/</guid>
+      <guid>https://davidevega.eu/research/virt-eu/</guid>
       <description>&lt;p&gt;The goal of the project is to analyze and map the ethical practices of European&#xA;hardware and software entrepreneurs, maker and hacker spaces, and community&#xA;innovators in order to: (1) understand how IoT innovators enact ethics as they&#xA;design future devices, (2) generate a new framework for Privacy, Ethical and&#xA;Social Impact Assessment (PESIA) and (3) develop tools to support ethical&#xA;reflection and self-assessment as part the design and development process for&#xA;IoT technologies.&lt;/p&gt;</description>
     </item>
   </channel>
