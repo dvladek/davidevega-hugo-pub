@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Davide Vega D&#39;Aurelio</title>
-    <link>http://localhost:1313/toolkit/</link>
+    <link>https://davidevega.eu/toolkit/</link>
     <description>Recent content in Resources on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/toolkit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidevega.eu/toolkit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Temporal Text Network Library</title>
-      <link>http://localhost:1313/toolkit/ttnet/</link>
+      <link>https://davidevega.eu/toolkit/ttnet/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/toolkit/ttnet/</guid>
-      <description>&lt;p&gt;The &lt;em&gt;ttnet&lt;/em&gt; (Temporal Text Network Library) is a python open source package&#xA;for modelling and analizing communication networks, built on top of the &lt;em&gt;uunet&lt;/em&gt; &amp;ndash; the core library for network modelling and analysis developed and maintained&#xA;by the &lt;a href=&#34;http://www.it.uu.se/research/group/infolab&#34; target=&#34;_blank&#34;&gt;Uppsala University Information Laboratory&lt;/a&gt;&#xA;. &lt;em&gt;ttnet&lt;/em&gt;&#xA;is still in an early (but continuous) development.&lt;/p&gt;&#xA;&lt;p&gt;The library is based on the &lt;a href=&#34;http://localhost:1313/pubs/vega2018ans_ttt/&#34; title=&#34;Foundations of Temporal Text Networks&#xA;&#34;&gt;Foundations of Temporal Text Networks&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/pubs/vega2019temporal_chp/&#34; title=&#34;Metrics for Temporal Text Networks&#34;&gt;Metrics for Temporal Text Networks&lt;/a&gt; papers.&lt;/p&gt;</description>
+      <guid>https://davidevega.eu/toolkit/ttnet/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;ttnet&lt;/em&gt; (Temporal Text Network Library) is a python open source package&#xA;for modelling and analizing communication networks, built on top of the &lt;em&gt;uunet&lt;/em&gt; &amp;ndash; the core library for network modelling and analysis developed and maintained&#xA;by the &lt;a href=&#34;http://www.it.uu.se/research/group/infolab&#34; target=&#34;_blank&#34;&gt;Uppsala University Information Laboratory&lt;/a&gt;&#xA;. &lt;em&gt;ttnet&lt;/em&gt;&#xA;is still in an early (but continuous) development.&lt;/p&gt;&#xA;&lt;p&gt;The library is based on the &lt;a href=&#34;https://davidevega.eu/pubs/vega2018ans_ttt/&#34; title=&#34;Foundations of Temporal Text Networks&#xA;&#34;&gt;Foundations of Temporal Text Networks&lt;/a&gt; and &lt;a href=&#34;https://davidevega.eu/pubs/vega2019temporal_chp/&#34; title=&#34;Metrics for Temporal Text Networks&#34;&gt;Metrics for Temporal Text Networks&lt;/a&gt; papers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>hugo-Uppsala Theme</title>
-      <link>http://localhost:1313/toolkit/hugo_uppsala/</link>
+      <link>https://davidevega.eu/toolkit/hugo_uppsala/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/toolkit/hugo_uppsala/</guid>
+      <guid>https://davidevega.eu/toolkit/hugo_uppsala/</guid>
       <description>&lt;p&gt;The &lt;em&gt;hugo-Uppsala&lt;/em&gt; is an academic theme I developed over the years to build my&#xA;personal webpage. This theme has been inspited by the &lt;a href=&#34;https://github.com/jonathan-g/hugo-finisterre&#34;&gt;Hugo Finisterre&lt;/a&gt;&#xA;theme by &lt;a href=&#34;https://www.jonathangilligan.org&#34;&gt;Jonathan Gilligan&lt;/a&gt; and some other&#xA;academics&amp;rsquo; personal pages I have visited in the past.&lt;/p&gt;&#xA;&lt;p&gt;The theme supports most of the features from Hugo Finisterre, such as the&#xA;automatic generation of publication lists from BibTeX files and the dynamic&#xA;generation of news in the homepage.&lt;/p&gt;&#xA;&lt;p&gt;In contrast, this Hugo Finisterre it is a more lightweight theme redesigned&#xA;from scratch using &lt;a href=&#34;https://getbootstrap.com&#34;&gt;Bootstrap 5&lt;/a&gt;, &lt;a href=&#34;https://icons.getbootstrap.com&#34;&gt;Bootstrap Icons&lt;/a&gt;&#xA;and &lt;a href=&#34;https://sass-lang.com&#34;&gt;SASS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uppsala University Network Library</title>
-      <link>http://localhost:1313/toolkit/multinet/</link>
+      <link>https://davidevega.eu/toolkit/multinet/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/toolkit/multinet/</guid>
+      <guid>https://davidevega.eu/toolkit/multinet/</guid>
       <description>&lt;p&gt;The &lt;em&gt;uunet&lt;/em&gt; (Uppsala University Network Library) is the C++ open source core library for network modelling and&#xA;analysis developed and maintained by the &lt;a href=&#34;http://www.it.uu.se/research/group/infolab&#34; target=&#34;_blank&#34;&gt;Uppsala University Information Laboratory&lt;/a&gt;&#xA;. The&#xA;library is fully documented and includes a comperhensive test suite with&#xA;examples that demonstrate how it can be used or extended.&lt;/p&gt;&#xA;&lt;p&gt;This library also provides most of the code behind the R and Python &lt;em&gt;multinet&lt;/em&gt;&#xA;libraries, which are more specialized.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-multinet-r-library&#34;&gt;The multinet R library&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;em&gt;multinet&lt;/em&gt; library is available on CRAN (the Comprehensive R Archive Network), and can&#xA;be installed directly from an R terminal or RStudio.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Davide Vega D&#39;Aurelio</title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>https://davidevega.eu/tags/css/</link>
     <description>Recent content in Css on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Observing gender roles in mainstream TV shows</title>
-      <link>http://localhost:1313/education/proposals/gender_tv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/proposals/gender_tv/</guid>
-      <description>&lt;p&gt;The power of mass media, such as TV shows, lies in their ability to influence&#xA;our cultural and political ideas through the lens of their characters or the&#xA;society they depict. In non-fictional dramas these representations can provide,&#xA;for the most part and with some limitations, an accurate account of how&#xA;a particular issue is perceived within a portion of the society. The goal of&#xA;this project is to study how gender is represented in western TV shows.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://davidevega.eu/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis</title>
-      <link>http://localhost:1313/education/projects/2021_newspapers/</link>
+      <link>https://davidevega.eu/education/projects/2021_newspapers/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/projects/2021_newspapers/</guid>
+      <guid>https://davidevega.eu/education/projects/2021_newspapers/</guid>
       <description>&lt;p&gt;Newspapers might report on the same event, say a sport event or a political statement, but since they most likely differ in the presentation, are the content and under laying message of the articles actually the same? A human can read two separate articles and determine if they touch similar subjects and if they approach the subject in a positive or negative way. If this comparison would be preformed over several thousand of articles a computer would very much be the preferred method. However, a computer needs to be trained to understand the topics of the articles to be able to detect the topics and make the comparison.The two goals of this project is to find and identify topics within articles extracted from Swedish newspapers as well as preforming sentiment analysis on the most similar topic pairs.This project presents a Python 3 implementation of extracting textual data from Swedish newspapers, identify and assign topics to those articles, as well as preform sentiment analysis on articles based on their topics and day of publication. To extract the text from each article web scraping was used. The topic detection was performed with the help of non-negativefactorisation matrices. To determine each article polarity andemotional state TextBlob was utilised. Both goals were accomplished. The method used to extract textualdata was successful and topics for each article was successfullyidentified. The topic detection and sentiment analysis proved to be mostly correct while manually inspecting the most similar article pairs between the newspapers. The results was presented with dumbbell plots for the most similar article pairs. These plots shows each pairs polarity and subjectivity score and was therefore used to manually analyse the actual similarity between these articles as well as to their sentimentic structure. However, the results are deemed to be too unreliable to draw any significant conclusion in the sentiment difference and likeliness between the newspapers. This is because of the absence of a proper implementation of Swedish part-to-speech tags and lemmatization, which was noticed too late into the development process to be able to correct. These changes are however discussed and reflected upon in the purpose to gain insight in how the implemented solution could have been improved.&lt;/p&gt;</description>
     </item>
   </channel>
