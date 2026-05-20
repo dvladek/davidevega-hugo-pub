@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Davide Vega D&#39;Aurelio</title>
-    <link>https://davidevega.eu/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Blog on Davide Vega D&#39;Aurelio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidevega.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postdoctoral position available in Computer Science with a focus on Professional Competences and Equal Opportunities</title>
-      <link>https://davidevega.eu/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</link>
+      <link>http://localhost:1313/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</guid>
+      <guid>http://localhost:1313/post/2023/03/20/postdoctoral-position-available-in-computer-science-with-a-focus-on-professional-competences-and-equal-opportunities/</guid>
       <description>We are hiring a postdoctoral researcher in computer science to work at the intersection of data science, education, AI bias and equal opportunities.</description>
     </item>
     <item>
       <title>PhD position available in Data Science for the analysis of online communication</title>
-      <link>https://davidevega.eu/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</link>
+      <link>http://localhost:1313/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://davidevega.eu/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</guid>
+      <guid>http://localhost:1313/post/2022/04/28/phd-position-available-in-data-science-for-the-analysis-of-online-communication/</guid>
       <description>I am hiring a PhD student in data science for the analysis of online communication to join the Uppsala University Information Laboratory.</description>
     </item>
   </channel>
